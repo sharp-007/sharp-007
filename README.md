@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joyce Pan.
-- 👀 I’m interested in hiking, piano, calligraphy.
+- 👀 I’m interested in hiking, piano, calligraphy and reading.
 - 🌱 I’m currently pivoting to be a data analyst.
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me: pj0072014@126.com
