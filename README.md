@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joyce Pan.
+- 👋 Hi, I’m Jiao Pan.
 - 🌱 I’m currently pivoting to be a data analyst. Open to data analyst job opportunities.
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 👀 I’m interested in hiking, piano, calligraphy and reading.
