@@ -7,7 +7,6 @@
 - 👀 Hobbies: hiking, piano, calligraphy and reading.
 - 🔛 Linkedin: [Jiao Pan](https://www.linkedin.com/in/jiao-pan-549596138/)
 - 📫 Email: pj0072014@126.com  
-- 📲 Phone: +86 13521950873
 - 📢 Address: Beijing, China (glad with relocation and remote work)
 
 
@@ -20,10 +19,10 @@
 - AWS Data Analytics: S3, Athena, RDS, Redshift, Glue, DynamoDB, CloudSearch, Kinesis, QuickSight, EMR, CLI, Cloud9, SDK (Python)
 
 # Soft Skills
-- Project Management Professional (PMP) trained. 
-- Business English Communication Skills Specialization (Certified by University of Washington).
-- 3 years' experience working as a creative engineer and 2 years' experience working as a supportive team leader.
-- Succeeded in solving multi-disciplinary technical problems in a cross-functional team.
+- Language: English, IELTS (7.5), CET6 (568), Business English Communication Skills Specialization (Certified by University of Washington). Mandarin (Native).
+- Leadership: Project Management Professional (PMP) trained. 3 years' experience working as a creative engineer and 2 years' experience working as a supportive team leader.
+- Expertise: Succeeded in solving multi-disciplinary technical problems in a cross-functional team.
+
 
 # Projects
 - [1. datacamp-projects](https://github.com/sharp-007/datacamp-projects)
