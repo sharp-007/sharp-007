@@ -40,6 +40,13 @@
 - [5. Credit-Score-Model](https://github.com/sharp-007/Credit-Score-Model)
 
 # Certificates
+- Amazon Web Services: Data Analytics (Linkedin)
+- MySQL Intermediate Certificate (HackerRank) 
+- Tools for Data Science (IBM)
+- Data Science Methodology (IBM)
+- Python for Data Science, AI & Development (IBM)
+- Business English Communication Skills (University of Washington)
+
 ![certificate1](https://user-images.githubusercontent.com/61656049/196372881-7c5d5fcd-1b58-45fd-b7a4-d53f45091cc4.jpg)
 
 
