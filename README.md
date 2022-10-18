@@ -6,6 +6,7 @@
 - 💞️ I’m glad to collaborate on data science projects.
 - 👀 Hobbies: hiking, piano, calligraphy and reading.
 - 🔛 Linkedin: [Jiao Pan](https://www.linkedin.com/in/jiao-pan-549596138/)
+- ✈️ Github: [sharp-007](https://github.com/sharp-007)
 - 📫 Email: pj0072014@126.com  
 - 📢 Address: Beijing, China (glad with relocation and remote work)
 
