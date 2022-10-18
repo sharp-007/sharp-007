@@ -24,11 +24,11 @@
 # Projects
 - [1. datacamp-projects](https://github.com/sharp-007/datacamp-projects)
 
-  Project 1: Mobile Games AB Testing with Cookie Cats
+  [Project 1: Mobile Games AB Testing with Cookie Cats](https://github.com/sharp-007/datacamp-projects/blob/main/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats/AB%20Testing%20with%20Cookie%20Cats/notebook.ipynb)
 
-  Project 2: Competition - Reporting on sales data - motorcycle parts
+  [Project 2: Competition - Reporting on sales data - motorcycle parts](https://github.com/sharp-007/datacamp-projects/blob/main/Competition%20-%20Reporting%20on%20sales%20data%20-%20motorcycle%20parts/notebook.ipynb)
 
-  Project 3: Where to open a new coffee shop?
+  [Project 3: Where to open a new coffee shop?](https://github.com/sharp-007/datacamp-projects/blob/main/Where%20to%20open%20a%20new%20coffee%20shop/Where%20to%20open%20a%20new%20coffee%20shop.ipynb)
 
 - [2. Digit-Recognizer](https://github.com/sharp-007/Digit-Recognizer)
 - [3. User-Profile](https://github.com/sharp-007/User-Profile)
