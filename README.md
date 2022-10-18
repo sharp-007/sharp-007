@@ -20,7 +20,7 @@
 - AWS Data Analytics: S3, Athena, RDS, Redshift, Glue, DynamoDB, CloudSearch, Kinesis, QuickSight, EMR, CLI, Cloud9, SDK (Python)
 
 # Soft Skills
-- Language: English, IELTS (7.5), CET6 (568), Business English Communication Skills Specialization (Certified by University of Washington). Mandarin (Native).
+- Language: English (Professional working proficiency). Mandarin (Native).
 - Leadership: Project Management Professional (PMP) trained. 3 years' experience working as a creative engineer and 2 years' experience working as a supportive team leader.
 - Expertise: Succeeded in solving multi-disciplinary technical problems in a cross-functional team.
 
