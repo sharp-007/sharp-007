@@ -5,7 +5,10 @@
 - 🎖️ I'd like to evolve with your business to provide all-in-one data solutions.
 - 💞️ I’m glad to collaborate on data science projects.
 - 👀 Hobbies: hiking, piano, calligraphy and reading.
-- 📫 Email: pj0072014@126.com  Mobile Phone: +86 13521950873
+- 🔛 Linkedin: [Jiao Pan](https://www.linkedin.com/in/jiao-pan-549596138/)
+- 📫 Email: pj0072014@126.com  
+- 📲 Phone: +86 13521950873
+
 
 # Hard Skills
 - Focus: Data Analysis, Data Science
