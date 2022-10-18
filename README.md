@@ -8,6 +8,7 @@
 - 🔛 Linkedin: [Jiao Pan](https://www.linkedin.com/in/jiao-pan-549596138/)
 - 📫 Email: pj0072014@126.com  
 - 📲 Phone: +86 13521950873
+- 📢 Address: Beijing, China (glad with relocation and remote work)
 
 
 # Hard Skills
