@@ -40,7 +40,7 @@
 - [5. Credit-Score-Model](https://github.com/sharp-007/Credit-Score-Model)
 
 # Certificates
-- [Amazon Web Services: Data Analytics (Linkedin)](https://www.linkedin.com/learning/amazon-web-services-data-analytics)
+- [Amazon Web Services: Data Analytics (Linkedin)](https://www.linkedin.com/learning/certificates/76acedbc24e66d4dfa9e49704979e1714fb87afdce19d58b87d9781b6751e031)
 - [MySQL Intermediate Certificate (HackerRank)](https://www.hackerrank.com/certificates/5a483dd934b9) 
 - [Tools for Data Science (IBM)](https://www.coursera.org/account/accomplishments/verify/666GHVQ24W8R)
 - [Data Science Methodology (IBM)](https://www.coursera.org/account/accomplishments/verify/BZ9PY9WFMTMK)
