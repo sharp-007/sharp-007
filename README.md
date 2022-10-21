@@ -1,6 +1,6 @@
 # Profile
 - 👋 Hi, I’m Jiao Pan.
-- 🌱 I’m actively looking for **data analyst / data scientist** job opportunities. 
+- 🌱 I’m actively looking for **data analyst** job opportunities. 
 - ✨ I am dedicated to applying data science to accelerate your business and drive scientific business decisions. 
 - 🎖️ I'd like to evolve with your business to provide all-in-one data solutions.
 - 💞️ I’m glad to collaborate on data science projects.
