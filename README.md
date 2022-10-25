@@ -42,10 +42,10 @@
 - [5. Credit-Score-Model](https://github.com/sharp-007/Credit-Score-Model)
 
 # Certificates
-- English: IELTS (7.5), CET6 (568), Business English Communication Skills (University of Washington)
-- Data Analytics: Amazon Web Services: Data Analytics (Linkedin)
-- Data Science: Python for Data Science, AI & Development (IBM), Tools for Data Science (IBM), Data Science Methodology (IBM) 
-- Database: MySQL Intermediate Certificate (HackerRank) 
+- English: IELTS (7.5), CET6 (568), [Business English Communication Skills (University of Washington)](https://www.coursera.org/account/accomplishments/specialization/VA23KNUCMFJU)
+- Data Analytics: [Amazon Web Services: Data Analytics (Linkedin)](https://www.linkedin.com/learning/certificates/7d2b2b5065e18726dae74d5d1c94d7bb28f48b48df206a78a6b9d233f000be8a)
+- Data Science: [Python for Data Science, AI & Development (IBM)](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW), [Tools for Data Science (IBM)](https://www.coursera.org/account/accomplishments/verify/666GHVQ24W8R), [Data Science Methodology (IBM)](https://www.coursera.org/account/accomplishments/verify/BZ9PY9WFMTMK) 
+- Database: [MySQL Intermediate Certificate (HackerRank)](https://www.hackerrank.com/certificates/5a483dd934b9) 
 - Programming: NCRE Grade 2 (C Programming)
 - Solutions Architect: AWS She Builds CloudUp Solution Architect Associate (SAA) Program learner, to be certified in Dec 2022
 - Project Management Professional (PMP): Completed the training in May 2022, to be certified in Nov 2022
