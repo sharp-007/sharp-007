@@ -1,8 +1,8 @@
 # Profile
 - 👋 Hi, I’m Jiao Pan.
-- 🌱 I’m actively looking for **data analyst** job opportunities. 
+- 🌱 I’m actively looking for Data Analyst · Digital Specialist · Business Analyst job opportunities. 
 - ✨ I am dedicated to applying data science to accelerate your business and drive scientific business decisions. 
-- 🎖️ I'd like to evolve with your business to provide all-in-one data solutions.
+- 🎖️ I'd like to evolve with your business to provide all-in-one solutions.
 - 💞️ I’m glad to collaborate on data science projects.
 - 👀 Hobbies: hiking, piano, calligraphy and reading.
 - 🔛 Linkedin: [Jiao Pan](https://www.linkedin.com/in/jiao-pan-549596138/)
@@ -12,18 +12,21 @@
 
 
 # Hard Skills
-- Focus: Data Analysis, Data Science
-- Coding: Python, MySQL, Matlab
-- Dashboard: Tableau
-- Python Libraries: pandas, numpy, matplotlib, seaborn, geopandas, statsmodels, sklearn, familiar with tensorflow and keras frameworks
+- Areas: Data Analytics, Data Science, Materials Science
+- Coding: Python, MySQL, Matlab, C++, Git Bash
+- Dashboard: Tableau, Quicksight
+- Python Libraries: pandas, numpy, matplotlib, seaborn, geopandas, statsmodels, sklearn
 - Machine learning: Linear Regression, Logistic Regression, Elastic-net Regression, KNN, DT, RF, SVM, K-means, PCA
-- AWS Data Analytics: S3, Athena, RDS, Redshift, Glue, DynamoDB, CloudSearch, Kinesis, QuickSight, EMR, CLI, Cloud9, SDK (Python)
+- Deep learning: familiar with tensorflow and keras frameworks
+- Cloud computing: AWS Data Analytics: S3, Athena, RDS, Redshift, Glue, DynamoDB, Kinesis, QuickSight, EMR, CLI, Cloud9, SDK 
+- Materials Science: polymer composites, flexible composites, electromagnetic materials, electromagnetic computing, structure modeling
 
 # Soft Skills
-- Language: English (Professional working proficiency). Mandarin (Native).
-- Leadership: Project Management Professional (PMP) trained. 3 years' experience working as a creative engineer and 2 years' experience working as a supportive team leader.
-- Expertise: Succeeded in solving multi-disciplinary technical problems in a cross-functional team.
-
+- Language: English (Professional working proficiency), Mandarin (Native)
+- Creativity: 3 years' experience working as a creative engineer, succeeded in solving multi-disciplinary problems in a cross-functional team, awarded the Technology Innovation Prize in the 2020 annual summary meeting
+- Leadership: 2 years' experience working as a supportive technical team leader, successfully organized more than 10 collaborative tasks
+- Writing: outlined and drafted technical documents to bid for projects with a success rate of about 90% 
+- Reporting: voted as the Excellent Deparment Manager in the 2021 annual report meeting
 
 # Projects
 - [1. datacamp-projects](https://github.com/sharp-007/datacamp-projects)
