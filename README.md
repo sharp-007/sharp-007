@@ -10,7 +10,6 @@
 - 📫 Email: pj0072014@126.com  
 - 📢 Address: Beijing, China (glad with relocation and remote work)
 
-
 # Hard Skills
 - Areas: Data Analytics, Data Science, Materials Science
 - Coding: Python, MySQL, Matlab, C++, Git Bash
@@ -23,7 +22,7 @@
 
 # Soft Skills
 - Language: English (Professional working proficiency), Mandarin (Native)
-- Creativity: 3 years' experience working as a creative engineer, succeeded in solving multi-disciplinary problems in a cross-functional team, awarded the Technology Innovation Prize in the 2020 annual summary meeting
+- Creativity: 3 years' experience working as a creative engineer in the manufacturing industry, succeeded in solving multi-disciplinary problems in a cross-functional team, awarded the Technology Innovation Prize in the 2020 annual summary meeting
 - Leadership: 2 years' experience working as a supportive technical team leader, successfully organized more than 10 collaborative tasks
 - Writing: outlined and drafted technical documents to bid for projects with a success rate of about 90% 
 - Reporting: voted as the Excellent Deparment Manager in the 2021 annual report meeting
