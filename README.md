@@ -40,6 +40,7 @@
 - [3. User-Profile](https://github.com/sharp-007/User-Profile)
 - [4. User-Clustering-Product-Recommendation-and-Sales-Volume-Prediction](https://github.com/sharp-007/User-Clustering-Product-Recommendation-and-Sales-Volume-Prediction)
 - [5. Credit-Score-Model](https://github.com/sharp-007/Credit-Score-Model)
+- [6. Arcing-Issue-Solution-with-Random-Forest](https://github.com/sharp-007/Arcing-Issue-Solution-with-Random-Forest)
 
 # Certificates
 - English: IELTS (7.5), CET6 (568), [Business English Communication Skills (University of Washington)](https://www.coursera.org/account/accomplishments/specialization/VA23KNUCMFJU)
