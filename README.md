@@ -47,8 +47,7 @@
 - Data Science: [Python for Data Science, AI & Development (IBM)](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW), [Tools for Data Science (IBM)](https://www.coursera.org/account/accomplishments/verify/666GHVQ24W8R), [Data Science Methodology (IBM)](https://www.coursera.org/account/accomplishments/verify/BZ9PY9WFMTMK) 
 - Database: [MySQL Intermediate Certificate (HackerRank)](https://www.hackerrank.com/certificates/5a483dd934b9) 
 - Programming: NCRE Grade 2 (C Programming)
-- Solutions Architect: AWS She Builds CloudUp Solution Architect Associate (SAA) Program learner, to be certified in Dec 2022
-- Project Management Professional (PMP): Completed the training in May 2022, to be certified in Nov 2022
+- Project Management Professional (PMP): Completed the training in May 2022
 
 ![certificate1](https://user-images.githubusercontent.com/61656049/196372881-7c5d5fcd-1b58-45fd-b7a4-d53f45091cc4.jpg)
 
