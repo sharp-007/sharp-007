@@ -1,6 +1,6 @@
 # Profile
 - 👋 Hi, I’m Jiao Pan.
-- 🌱 I’m actively looking for Data Analyst · Digital Specialist · Business Analyst job opportunities. 
+- 🌱 I’m actively looking for Data Analyst · Data Scientist · Digital Specialist · Business Analyst job opportunities. 
 - ✨ I am dedicated to applying data science to accelerate your business and drive scientific business decisions. 
 - 🎖️ I'd like to evolve with your business to provide all-in-one solutions.
 - 💞️ I’m glad to collaborate on data science projects.
