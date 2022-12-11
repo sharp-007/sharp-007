@@ -45,7 +45,7 @@
 # Certificates
 - English: IELTS (7.5), CET6 (568), [Business English Communication Skills (University of Washington)](https://www.coursera.org/account/accomplishments/specialization/VA23KNUCMFJU)
 - Data Analytics: [Amazon Web Services: Data Analytics (Linkedin)](https://www.linkedin.com/learning/certificates/7d2b2b5065e18726dae74d5d1c94d7bb28f48b48df206a78a6b9d233f000be8a)
-- Data Science: [Python for Data Science, AI & Development (IBM)](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW), [Tools for Data Science (IBM)](https://www.coursera.org/account/accomplishments/verify/666GHVQ24W8R), [Data Science Methodology (IBM)](https://www.coursera.org/account/accomplishments/verify/BZ9PY9WFMTMK) 
+- Data Science: [Python for Data Science, AI & Development (IBM)](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW), [Tools for Data Science (IBM)](https://www.coursera.org/account/accomplishments/verify/666GHVQ24W8R), [Data Science Methodology (IBM)](https://www.coursera.org/account/accomplishments/verify/BZ9PY9WFMTMK) , [Introduction to PySpark](https://www.datacamp.com/statement-of-accomplishment/course/4e9c7c58bfa54e741286737194386a36b630a9ba)
 - Database: [MySQL Intermediate Certificate (HackerRank)](https://www.hackerrank.com/certificates/5a483dd934b9) 
 - Programming: NCRE Grade 2 (C Programming)
 - Project Management Professional (PMP): Completed the training in May 2022
