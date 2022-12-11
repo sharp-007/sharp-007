@@ -14,7 +14,7 @@
 - Areas: Data Analytics, Data Science, Materials Science
 - Coding: Python, MySQL, Matlab, C++, Git Bash
 - Dashboard: Tableau, Quicksight
-- Python Libraries: pandas, numpy, matplotlib, seaborn, geopandas, statsmodels, sklearn
+- Python Libraries: pandas, numpy, matplotlib, seaborn, geopandas, statsmodels, sklearn, pyspark
 - Machine learning: Linear Regression, Logistic Regression, Elastic-net Regression, KNN, DT, RF, SVM, K-means, PCA
 - Deep learning: familiar with tensorflow and keras frameworks
 - Cloud computing: AWS Data Analytics: S3, Athena, RDS, Redshift, Glue, DynamoDB, Kinesis, QuickSight, EMR, CLI, Cloud9, SDK 
