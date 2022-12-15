@@ -53,9 +53,6 @@
 
 ![certificate1](https://user-images.githubusercontent.com/61656049/196372881-7c5d5fcd-1b58-45fd-b7a4-d53f45091cc4.jpg)
 
-![Alt](https://repobeats.axiom.co/api/embed/03e3e1ad43fcbb2fb5cc529a9dc0ed6726dbc605.svg "Repobeats analytics image")
-
-![Alt](https://repobeats.axiom.co/api/embed/ac2be0988e8d8d9c102490a0124ba77d22b8551a.svg "Repobeats analytics image")
 
 
 <!---
