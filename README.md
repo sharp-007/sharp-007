@@ -10,6 +10,10 @@
 - 📫 Email: pj0072014@126.com  
 - 📢 Address: Beijing, China
 
+[![Joyce's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharp-007&count_private=true)](https://github.com/sharp-007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharp-007)](https://github.com/sharp-007)
+
 # Hard Skills
 - Areas: Data Analytics, Data Science, Materials Science
 - Coding: Python, MySQL, Matlab, C++, Git Bash
@@ -53,7 +57,7 @@
 
 ![certificate1](https://user-images.githubusercontent.com/61656049/196372881-7c5d5fcd-1b58-45fd-b7a4-d53f45091cc4.jpg)
 
-[![Joyce's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharp-007&count_private=true)](https://github.com/sharp-007)
+
 
 <!---
 sharp-007/sharp-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
