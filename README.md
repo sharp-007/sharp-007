@@ -10,9 +10,9 @@
 - 📫 Email: pj0072014@126.com  
 - 📢 Address: Beijing, China
 
-[![Joyce's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharp-007&count_private=true)](https://github.com/sharp-007)
+[![Joyce's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharp-007&count_private=true&show_icons=true)](https://github.com/sharp-007)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharp-007)](https://github.com/sharp-007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharp-007&layout=compact)](https://github.com/sharp-007)
 
 # Hard Skills
 - Areas: Data Analytics, Data Science, Materials Science
