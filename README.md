@@ -53,7 +53,7 @@
 
 ![certificate1](https://user-images.githubusercontent.com/61656049/196372881-7c5d5fcd-1b58-45fd-b7a4-d53f45091cc4.jpg)
 
-
+[![Joyce's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharp-007)](https://github.com/sharp-007//sharp-007)
 
 <!---
 sharp-007/sharp-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
