@@ -1,8 +1,6 @@
 # Profile
 - 👋 Hi, I’m Jiao Pan.
-- 🌱 I’m actively looking for Data Analyst · Data Scientist · Digital Specialist · Business Analyst job opportunities. 
 - ✨ I am dedicated to applying data science to accelerate your business and drive scientific business decisions. 
-- 🎖️ I'd like to evolve with your business to provide all-in-one solutions.
 - 💞️ I’m glad to collaborate on data science projects.
 - 👀 Hobbies: hiking, piano, calligraphy, reading, writing.
 - 🔛 Linkedin: [Jiao Pan](https://www.linkedin.com/in/jiao-pan-549596138/)
@@ -49,7 +47,7 @@
 - Big Data: [Introduction to PySpark (DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/4e9c7c58bfa54e741286737194386a36b630a9ba)
 - Database: [MySQL Intermediate Certificate (HackerRank)](https://www.hackerrank.com/certificates/5a483dd934b9) 
 - Programming: NCRE Grade 2 (C Programming)
-- Project Management Professional (PMP): Completed the training in May 2022
+- Project Management Professional (PMP)(https://www.credly.com/badges/fe82da05-17cf-4a20-b949-ef44f95b75b0/public_url)
 
 ![certificate1](https://user-images.githubusercontent.com/61656049/196372881-7c5d5fcd-1b58-45fd-b7a4-d53f45091cc4.jpg)
 
