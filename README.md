@@ -2,7 +2,6 @@
 - 👋 Hi, I’m Jiao Pan.
 - ✨ I am dedicated to applying data science to accelerate your business and drive scientific business decisions. 
 - 💞️ I’m glad to collaborate on data science projects.
-- 👀 Hobbies: hiking, calligraphy, reading, writing.
 - 🔛 Linkedin: [Jiao Pan](https://www.linkedin.com/in/jiao-pan-549596138/)
 - ✈️ Github: [sharp-007](https://github.com/sharp-007)
 - 📫 Email: pj0072014@126.com  
