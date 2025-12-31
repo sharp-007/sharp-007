@@ -8,11 +8,11 @@
 - 📢 Address: Beijing, China
 
 # Projects
-- 1. Data Science Projects
+1. Data Science Projects
 - [1.1. Digit-Recognizer](https://github.com/sharp-007/Digit-Recognizer)
 - [1.2. Arcing-Issue-Solution-with-Random-Forest](https://github.com/sharp-007/Arcing-Issue-Solution-with-Random-Forest)
 
-- 2. AI Projects
+2. AI Projects
 - [2.1. carbon_fiber_defect_detection_system](https://github.com/sharp-007/carbon_fiber_defect_detection_system)
 <!---
 sharp-007/sharp-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
