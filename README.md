@@ -13,6 +13,7 @@
 - [Arcing-Issue-Solution-with-Random-Forest](https://github.com/sharp-007/Arcing-Issue-Solution-with-Random-Forest)
 
 2. AI Projects
+- [Kaggle_Dogs_vs_Cats_PyTorch](https://github.com/sharp-007/Kaggle_Dogs_vs_Cats_PyTorch)
 - [carbon_fiber_defect_detection_system](https://github.com/sharp-007/carbon_fiber_defect_detection_system)
 <!---
 sharp-007/sharp-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
