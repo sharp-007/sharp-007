@@ -15,7 +15,7 @@
 2. AI Projects
 - [Kaggle_Dogs_vs_Cats_PyTorch](https://github.com/sharp-007/Kaggle_Dogs_vs_Cats_PyTorch)
 - [carbon_fiber_defect_detection_system](https://github.com/sharp-007/carbon_fiber_defect_detection_system)
-- **Online Demmo**：[https://carbon-fiber-defect-detection-system.streamlit.app/](https://carbon-fiber-defect-detection-system.streamlit.app/)
+- **Online Demo**：[https://carbon-fiber-defect-detection-system.streamlit.app/](https://carbon-fiber-defect-detection-system.streamlit.app/)
 <!---
 sharp-007/sharp-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
