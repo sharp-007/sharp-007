@@ -29,6 +29,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JMP](https://img.shields.io/badge/JMP-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 📊 Data Science & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
+
 ### 🤖 AI/ML Frameworks
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -52,14 +60,6 @@
 ![AI Agent](https://img.shields.io/badge/AI%20Agent-Function%20Calling%20%7C%20ReAct%20%7C%20Multi--Agent-0984E3?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Task%20Planning%20%7C%20Workflow%20Orchestration-9B59B6?style=for-the-badge)
 ![Coze | Dify](https://img.shields.io/badge/Coze%20%7C%20Dify-AI%20App%20Platform-FF6B00?style=for-the-badge)
-
-### 📊 Data Science & Visualization
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
 
 ---
 
@@ -119,14 +119,6 @@
 
 - Manufacturing quality issue analysis using Random Forest
 - **Tech Stack**: Python, Random Forest, Statistical Analysis, JMP
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharp-007)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharp-007)
 
 ---
 
