@@ -17,9 +17,9 @@
 - 🔬 **Currently**: Focusing on AI applications in manufacturing industry
 - 🌱 **Research Interests**: Deep Learning, Large Language Models (LLMs), AI Agent
 - 🔬 **Main Research Areas**: Computer Vision, AI Application Development, Generative AI Applications
+- 🌐 **English Proficiency**: Intermediate-Advanced, Fluent Speaking, IELTS 7.5
 - 🎯 **Career Goal**: AI Product Manager
 - 📍 **Location**: Beijing, China
-- 🌐 **English Proficiency**: Intermediate-Advanced, Fluent Speaking, IELTS 7.5
 
 ---
 
@@ -130,7 +130,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <div align="center">
 
