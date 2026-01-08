@@ -4,7 +4,7 @@
 
 ### 🤖 AI Product Manager | Data Science & AI Enthusiast | Manufacturing Industry Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pj0072014@126.com?subject=Contact%20from%20GitHub)
 
 </div>
 
@@ -13,12 +13,12 @@
 ## 🚀 About Me
 
 - ✨ **Focus: Data and AI driven solutions for smart manufacturing**
-- 💼 **Former**: JMP Statistical Analysis Software - Data Analysis Consultant
+- 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant
 - 🔬 **Currently**: Focusing on AI applications in manufacturing industry
 - 🌱 **Research Interests**: Deep Learning, Large Language Models (LLMs), AI Agent
 - 🔬 **Main Research Areas**: Computer Vision, AI Application Development, Generative AI Applications
+- 🌐 **English Proficiency**: Intermediate-Advanced, Fluent Speaking, IELTS 7.5
 - 🎯 **Career Goal**: AI Product Manager
-- 📫 **Email**: pj0072014@126.com
 - 📍 **Location**: Beijing, China
 
 ---
@@ -28,6 +28,14 @@
 ### 💻 Programming & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JMP](https://img.shields.io/badge/JMP-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Data Science & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
 
 ### 🤖 AI/ML Frameworks
 
@@ -53,23 +61,9 @@
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Task%20Planning%20%7C%20Workflow%20Orchestration-9B59B6?style=for-the-badge)
 ![Coze | Dify](https://img.shields.io/badge/Coze%20%7C%20Dify-AI%20App%20Platform-FF6B00?style=for-the-badge)
 
-### 📊 Data Science & Visualization
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
-
-### 🛠️ Tools & Project Management
-
-![Project Management](https://img.shields.io/badge/Project%20Management-PMP%20Certified-FF6B00?style=for-the-badge&logo=pmi&logoColor=white)
-
-**Core Skills**: Data Science | Statistical Analysis | Data Visualization | Machine Learning | Deep Learning | LLMs & RAG | AI Agent | JMP JSL Application Development | Project Management
-
 ---
 
-## 🏭 Smart Manufacturing & Materials Science
+## 🏭 Smart Manufacturing
 
 ![Materials Science](https://img.shields.io/badge/Materials%20Science-Research%20%26%20Development-8B4513?style=for-the-badge)
 ![Polymer Composites](https://img.shields.io/badge/Polymer%20Composites-Carbon%20Fiber%20%7C%20Functional%20Composites%20%7C%20Flexible%20Composites-2C3E50?style=for-the-badge)
@@ -79,11 +73,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Core Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharp-007)
+**Core Skills**: Data Science | Statistical Analysis | Data Visualization | Machine Learning | Deep Learning | LLMs & RAG | AI Agent | JMP JSL Application Development | Project Management | Smart Manufacturing | Materials Science | Six Sigma | NPI | Quality Control | Process Improvement | DOE | SPC
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharp-007)
+---
+
+## 🎓 Certifications
+
+![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![JMP](https://img.shields.io/badge/JMP%20Statistical%20Analysis-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Business English](https://img.shields.io/badge/Business%20English-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
+**Certifications:**
+
+- 🏅 **[PMP](https://www.credly.com/badges/fe82da05-17cf-4a20-b949-ef44f95b75b0/public_url)** - Project Management Professional (PMI Certified)
+- 🏅 **[JMP Statistical Analysis](https://www.credly.com/badges/18d44ede-7045-4a93-b156-48b435f325f9/public_url)** - JMP Software Certification (SAS Certified)
+- 🏅 **[Python for Data Science, AI &amp; Development](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW)** - IBM Coursera Certificate
+- 🏅 **[SQL (Intermediate)](https://www.hackerrank.com/certificates/5a483dd934b9)** - HackerRank Certification
+- 🏅 **[Business English](https://www.coursera.org/account/accomplishments/specialization/VA23KNUCMFJU)** - Coursera Specialization
 
 ---
 
@@ -93,7 +99,7 @@
 
 #### [Carbon Fiber Defect Detection System](https://github.com/sharp-007/carbon_fiber_defect_detection_system)
 
-- Deep learning-based defect detection system for manufacturing
+- Deep learning-based defect detection system for quality control in manufacturing industry
 - **Online Demo**: [Streamlit App](https://carbon-fiber-defect-detection-system.streamlit.app/)
 - **Tech Stack**: Python, PyTorch, YOLO, Streamlit, Computer Vision
 
@@ -112,27 +118,15 @@
 #### [Arcing Issue Solution with Random Forest](https://github.com/sharp-007/Arcing-Issue-Solution-with-Random-Forest)
 
 - Manufacturing quality issue analysis using Random Forest
-- **Tech Stack**: Python, Random Forest, Statistical Analysis
+- **Tech Stack**: Python, Random Forest, Statistical Analysis, JMP
 
 ---
 
-## 🎓 Certifications
-
-![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![JMP](https://img.shields.io/badge/JMP%20Statistical%20Analysis-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-
-**Certifications:**
-
-- 🏅 **PMP** - Project Management Professional
-- 🏅 **JMP Statistical Analysis** - JMP Software Certification
-- 🏅 **Coursera Certificates** - Data Science & AI Courses
-
----
-
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pj0072014@126.com?subject=Contact%20from%20GitHub)
 
 </div>
 
