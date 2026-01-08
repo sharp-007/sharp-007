@@ -13,12 +13,13 @@
 ## 🚀 About Me
 
 - ✨ **Focus: Data and AI driven solutions for smart manufacturing**
-- 💼 **Former**: JMP Statistical Analysis Software - Data Analysis Consultant
+- 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant
 - 🔬 **Currently**: Focusing on AI applications in manufacturing industry
 - 🌱 **Research Interests**: Deep Learning, Large Language Models (LLMs), AI Agent
 - 🔬 **Main Research Areas**: Computer Vision, AI Application Development, Generative AI Applications
 - 🎯 **Career Goal**: AI Product Manager
 - 📍 **Location**: Beijing, China
+- 🌐 **English Proficiency**: Intermediate-Advanced, Fluent Speaking, IELTS 7.5
 
 ---
 
@@ -111,19 +112,21 @@
 #### [Arcing Issue Solution with Random Forest](https://github.com/sharp-007/Arcing-Issue-Solution-with-Random-Forest)
 
 - Manufacturing quality issue analysis using Random Forest
-- **Tech Stack**: Python, Random Forest, Statistical Analysis
+- **Tech Stack**: Python, Random Forest, Statistical Analysis, JMP
 
 ---
 
 ## 🎓 Certifications
 
-![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![JMP](https://img.shields.io/badge/JMP%20Statistical%20Analysis-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![JMP](https://img.shields.io/badge/JMP%20Statistical%20Analysis-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Business English](https://img.shields.io/badge/Business%20English-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 
 **Certifications:**
 
-- 🏅 **PMP** - Project Management Professional
-- 🏅 **JMP Statistical Analysis** - JMP Software Certification
-- 🏅 **Coursera Certificates** - Data Science & AI Courses
+- 🏅 **[PMP](https://www.credly.com/badges/fe82da05-17cf-4a20-b949-ef44f95b75b0/public_url)** - Project Management Professional (PMI Certified)
+- 🏅 **[JMP Statistical Analysis](https://www.credly.com/badges/18d44ede-7045-4a93-b156-48b435f325f9/public_url)** - JMP Software Certification (SAS Certified)
+- 🏅 **[Python for Data Science, AI &amp; Development](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW)** - IBM Coursera Certificate
+- 🏅 **[SQL (Intermediate)](https://www.hackerrank.com/certificates/5a483dd934b9)** - HackerRank Certification
+- 🏅 **[Business English](https://www.coursera.org/account/accomplishments/specialization/VA23KNUCMFJU)** - Coursera Specialization
 
 ---
 
