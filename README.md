@@ -26,7 +26,7 @@
 
 ### 💻 Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JMP](https://img.shields.io/badge/JMP-FF6B00?style=for-the-badge&logo=sas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JMP](https://img.shields.io/badge/JMP-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🤖 AI/ML Frameworks
 
@@ -60,7 +60,11 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
 
-**Core Skills**: Data Science | Statistical Analysis | Data Visualization | Machine Learning | Deep Learning | LLMs & RAG | AI Agent | JSL Application Development
+### 🛠️ Tools & Project Management
+
+![Project Management](https://img.shields.io/badge/Project%20Management-PMP%20Certified-FF6B00?style=for-the-badge&logo=pmi&logoColor=white)
+
+**Core Skills**: Data Science | Statistical Analysis | Data Visualization | Machine Learning | Deep Learning | LLMs & RAG | AI Agent | JMP JSL Application Development | Project Management
 
 ---
 
@@ -68,9 +72,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharp-007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharp-007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharp-007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharp-007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&langs_count=8)
 
 </div>
 
@@ -82,15 +86,11 @@
 
 #### [Carbon Fiber Defect Detection System](https://github.com/sharp-007/carbon_fiber_defect_detection_system)
 
-![GitHub stars](https://img.shields.io/github/stars/sharp-007/carbon_fiber_defect_detection_system?style=flat-square)
-
 - Deep learning-based defect detection system for manufacturing
 - **Online Demo**: [Streamlit App](https://carbon-fiber-defect-detection-system.streamlit.app/)
 - **Tech Stack**: Python, PyTorch, YOLO, Streamlit, Computer Vision
 
 #### [Kaggle Dogs vs Cats - PyTorch](https://github.com/sharp-007/Kaggle_Dogs_vs_Cats_PyTorch)
-
-![GitHub stars](https://img.shields.io/github/stars/sharp-007/Kaggle_Dogs_vs_Cats_PyTorch?style=flat-square)
 
 - Image classification using PyTorch
 - **Tech Stack**: PyTorch, Deep Learning, Transfer Learning
@@ -99,14 +99,10 @@
 
 #### [Digit Recognizer](https://github.com/sharp-007/Digit-Recognizer)
 
-![GitHub stars](https://img.shields.io/github/stars/sharp-007/Digit-Recognizer?style=flat-square)
-
 - Handwritten digit recognition project
 - **Tech Stack**: Python, Machine Learning, Data Science
 
 #### [Arcing Issue Solution with Random Forest](https://github.com/sharp-007/Arcing-Issue-Solution-with-Random-Forest)
-
-![GitHub stars](https://img.shields.io/github/stars/sharp-007/Arcing-Issue-Solution-with-Random-Forest?style=flat-square)
 
 - Manufacturing quality issue analysis using Random Forest
 - **Tech Stack**: Python, Random Forest, Statistical Analysis
