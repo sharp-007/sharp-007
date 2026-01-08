@@ -93,7 +93,7 @@
 
 #### [Carbon Fiber Defect Detection System](https://github.com/sharp-007/carbon_fiber_defect_detection_system)
 
-- Deep learning-based defect detection system for manufacturing
+- Deep learning-based defect detection system for quality control in manufacturing industry
 - **Online Demo**: [Streamlit App](https://carbon-fiber-defect-detection-system.streamlit.app/)
 - **Tech Stack**: Python, PyTorch, YOLO, Streamlit, Computer Vision
 
