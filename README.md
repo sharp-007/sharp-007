@@ -1,4 +1,4 @@
-<div align="center">`
+<div align="center">
 
 # 👋 Hi, I'm Joyce Pan
 
@@ -70,27 +70,19 @@
 
 ## 🏭 Smart Manufacturing & Materials Science
 
-<div align="center">
-
 ![Materials Science](https://img.shields.io/badge/Materials%20Science-Research%20%26%20Development-8B4513?style=for-the-badge)
 ![Polymer Composites](https://img.shields.io/badge/Polymer%20Composites-Carbon%20Fiber%20%7C%20Functional%20Composites%20%7C%20Flexible%20Composites-2C3E50?style=for-the-badge)
 ![Electromagnetic Simulation](https://img.shields.io/badge/Electromagnetic%20Simulation-Altair%20FEKO%20%7C%20Matlab-16A085?style=for-the-badge)
 ![NPI](https://img.shields.io/badge/NPI-EVT%20%7C%20DVT%20%7C%20PVT%20%7C%20MP-27AE60?style=for-the-badge)
 ![Six Sigma](https://img.shields.io/badge/Six%20Sigma-Process%20Improvement%20%7C%20Quality%20Control%20%7C%20DOE%20%7C%20SPC-E67E22?style=for-the-badge)
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharp-007)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharp-007&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharp-007&layout=compact)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharp-007)
 
 ---
 
@@ -125,11 +117,7 @@
 
 ## 🎓 Certifications
 
-<div align="center">
-
 ![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![JMP](https://img.shields.io/badge/JMP%20Statistical%20Analysis-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-
-</div>
 
 **Certifications:**
 
