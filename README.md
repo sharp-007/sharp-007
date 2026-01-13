@@ -107,12 +107,12 @@
 #### [Industrial Agent Mini Demo](https://github.com/sharp-007/industrial_agent_mini_demo)
 
 - RAG-based industrial intelligent agent demo with PDF document processing and semantic search
-- **Tech Stack**: React, FastAPI, LangChain, ChromaDB, Qwen, RAG
+- **Tech Stack**: React, FastAPI, LangChain, ChromaDB, Qwen, LLM, RAG
 
 #### [Mini Demo with AssetOpsBench](https://github.com/sharp-007/mini_demo_with_AssetOpsBench)
 
 - AI agent mini demo based on [AssetOpsBench](https://github.com/IBM/AssetOpsBench) for asset management operations
-- **Tech Stack**: React, Python, AI Agent
+- **Tech Stack**: React, Python, LLM, AI Agent
 
 #### [Kaggle Dogs vs Cats - PyTorch](https://github.com/sharp-007/Kaggle_Dogs_vs_Cats_PyTorch)
 
