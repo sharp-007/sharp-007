@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Joyce Pan
 
-### 🤖 Data Science & AI Solution | Manufacturing Industry Specialist
+### 🤖 Data Science & AI Solution | Manufacturing Background
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/HuggingFace-JoycePan-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 </div>
 
@@ -15,7 +15,7 @@
 - ✨ **Focus: I design and deliver Data and AI solutions to create real business value**
 - 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html)
 - 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent
-- 🌐 **English Proficiency**: Intermediate-Advanced, Fluent Speaking, IELTS 7.5
+- 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
 - 📫 **Email**: panjiao007@126.com
 - 📍 **Location**: Beijing, China
 
@@ -43,17 +43,15 @@
 
 ### 🧠 Deep Learning Algorithms
 
-![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-FF6B6B?style=for-the-badge) ![RNN](https://img.shields.io/badge/RNN-Recurrent%20Neural%20Network-4ECDC4?style=for-the-badge) ![LSTM](https://img.shields.io/badge/LSTM-Long%20Short--Term%20Memory-95E1D3?style=for-the-badge) ![YOLO](https://img.shields.io/badge/YOLO-You%20Only%20Look%20Once-00FFFF?style=for-the-badge) ![Transformer](https://img.shields.io/badge/Transformer-Attention%20Mechanism-FFD21E?style=for-the-badge) ![ResNet](https://img.shields.io/badge/ResNet-Residual%20Network-FF6B9D?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=for-the-badge) ![RNN](https://img.shields.io/badge/RNN-4ECDC4?style=for-the-badge) ![LSTM](https://img.shields.io/badge/LSTM-95E1D3?style=for-the-badge) ![ResNet](https://img.shields.io/badge/ResNet-FF6B9D?style=for-the-badge) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge) ![Transformer](https://img.shields.io/badge/Transformer-FFD21E?style=for-the-badge)
 
-### 🧠 LLM & AI Product
+### ⚡ LLM & AI Product
 
-![LLMs](https://img.shields.io/badge/LLMs-GPT%20%7C%20Qwen-8A2BE2?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-API%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-Vector%20DB%20%7C%20Embedding%20%7C%20Knowledge%20Base-00B894?style=for-the-badge) ![LangChain | LangGraph](https://img.shields.io/badge/LangChain%20%7C%20LangGraph-LLM%20Framework-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-Function%20Calling%20%7C%20ReAct%20%7C%20Multi--Agent-0984E3?style=for-the-badge) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Task%20Planning%20%7C%20Workflow%20Orchestration-9B59B6?style=for-the-badge) ![Coze | Dify](https://img.shields.io/badge/Coze%20%7C%20Dify-AI%20App%20Platform-FF6B00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-00B894?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=for-the-badge) ![AI Agent](https://img.shields.io/badge/AI%20Agent-0984E3?style=for-the-badge) ![Coze | Dify](https://img.shields.io/badge/Coze%20%7C%20Dify-FF6B00?style=for-the-badge)
 
----
+### 🏭 Smart Manufacturing
 
-## 🏭 Smart Manufacturing
-
-![Materials Science](https://img.shields.io/badge/Materials%20Science-Research%20%26%20Development-8B4513?style=for-the-badge) ![Polymer Composites](https://img.shields.io/badge/Polymer%20Composites-Carbon%20Fiber%20%7C%20Functional%20Composites%20%7C%20Flexible%20Composites-2C3E50?style=for-the-badge) ![Electromagnetic Simulation](https://img.shields.io/badge/Electromagnetic%20Simulation-Altair%20FEKO%20%7C%20Matlab-16A085?style=for-the-badge) ![NPI](https://img.shields.io/badge/NPI-EVT%20%7C%20DVT%20%7C%20PVT%20%7C%20MP-27AE60?style=for-the-badge) ![Six Sigma](https://img.shields.io/badge/Six%20Sigma-Process%20Improvement%20%7C%20Quality%20Control%20%7C%20DOE%20%7C%20SPC-E67E22?style=for-the-badge)
+![Materials Science](https://img.shields.io/badge/Materials%20Science-8B4513?style=for-the-badge) ![Polymer Composites](https://img.shields.io/badge/Polymer%20Composites-2C3E50?style=for-the-badge) ![EM Simulation](https://img.shields.io/badge/EM%20Simulation-16A085?style=for-the-badge) ![NPI](https://img.shields.io/badge/NPI-27AE60?style=for-the-badge) ![Six Sigma](https://img.shields.io/badge/Six%20Sigma-E67E22?style=for-the-badge) ![DOE](https://img.shields.io/badge/DOE-E74C3C?style=for-the-badge) ![SPC](https://img.shields.io/badge/SPC-3498DB?style=for-the-badge)
 
 ---
 
@@ -82,7 +80,7 @@
 #### [Carbon Fiber Defect Detection System](https://github.com/sharp-007/carbon_fiber_defect_detection_system_pyhton3.10)
 
 - Deep learning-based defect detection system for quality control in manufacturing industry
-- **Tech Stack**: Python, PyTorch, YOLO, Streamlit, Computer Vision
+- **Tech Stack**: Python, PyTorch, OpenCV, YOLO, Streamlit, Computer Vision
 - **Online Demo**: [Streamlit App](https://carbon-fiber-defect-detection-system.streamlit.app/)
 
 #### [Industrial Agent Mini Demo](https://github.com/sharp-007/industrial_agent_mini_demo)
@@ -154,7 +152,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/HuggingFace-JoycePan-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 </div>
 
