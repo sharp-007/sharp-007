@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Joyce Pan
 
-### 🤖 Data Science & AI Enthusiast | Manufacturing Industry Specialist
+### 🤖 Data Science & AI Solution | Manufacturing Industry Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan)
 
@@ -12,13 +12,11 @@
 
 ## 🚀 About Me
 
-- ✨ **Focus: Data and AI driven solutions for smart manufacturing**
-- 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant
-- 🔬 **Currently**: Focusing on AI applications in manufacturing industry
-- 🌱 **Research Interests**: Deep Learning, Large Language Models (LLMs), AI Agent
-- 🔬 **Main Research Areas**: Computer Vision, AI Application Development, Generative AI Applications
+- ✨ **Focus: I design and deliver Data and AI solutions to generate real business value**
+- 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html)
+- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, Large Language Models (LLMs), AI Agent
 - 🌐 **English Proficiency**: Intermediate-Advanced, Fluent Speaking, IELTS 7.5
-- 📫 **Email**: pj0072014@126.com
+- 📫 **Email**: panjiao007@126.com
 - 📍 **Location**: Beijing, China
 
 ---
@@ -75,7 +73,7 @@
 
 ## 💼 Core Skills
 
-**Core Skills**: Data Science | Statistical Analysis | Data Visualization | Machine Learning | Deep Learning | LLMs & RAG | AI Agent | JMP JSL Application Development | Project Management | Smart Manufacturing | Materials Science | Six Sigma | NPI | Quality Control | Process Improvement | DOE | SPC
+**Core Skills**: Data Science | Statistical Analysis | Data Visualization | Machine Learning | Deep Learning | LLMs | RAG | AI Agent | JMP JSL Application Development | Project Management | Smart Manufacturing | Materials Science | Six Sigma | NPI | Quality Control | Process Improvement | DOE | SPC
 
 ---
 
@@ -85,8 +83,9 @@
 
 **Certifications:**
 
-- 🏅 **[ACP](https://edu.aliyun.com/certification/acp26?spm=a2c4g.11186623.0.0.1fe259e0WKeohp)** - LLM - Alibaba Cloud Certified Professional
+- 🏅 **[ACP](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** - LLM - Alibaba Cloud Certified Professional
 - 🏅 **[PMP](https://www.credly.com/badges/fe82da05-17cf-4a20-b949-ef44f95b75b0/public_url)** - Project Management Professional (PMI Certified)
+- 🏅 [Deep Learning Architect](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)
 - 🏅 **[JMP Statistical Analysis](https://www.credly.com/badges/18d44ede-7045-4a93-b156-48b435f325f9/public_url)** - JMP Software Certification (SAS Certified)
 - 🏅 **[Python for Data Science, AI &amp; Development](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW)** - IBM Coursera Certificate
 - 🏅 **[SQL (Intermediate)](https://www.hackerrank.com/certificates/5a483dd934b9)** - HackerRank Certification
