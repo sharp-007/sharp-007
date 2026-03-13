@@ -69,7 +69,7 @@
 - 🏅 **[Statistical Thinking and Problem Solving](https://www.credly.com/badges/18d44ede-7045-4a93-b156-48b435f325f9/public_url)** (SAS Certified)
 - 🏅 **[Exploratory Data Analysis](https://www.credly.com/badges/60dde99a-3fc5-4823-b207-098da667ed2a/public_url)** (SAS Certified)
 - 🏅 **[Quality Methods](https://www.credly.com/badges/d2f98c3c-4910-4243-9771-40139310ae99/public_url)** (SAS Certified)
-- 🏅 **[Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW)** (IBM / Coursera Certified)
+- 🏅 **[Python for Data Science, AI &amp; Development](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW)** (IBM / Coursera Certified)
 - 🏅 **[SQL (Intermediate)](https://www.hackerrank.com/certificates/5a483dd934b9)** (HackerRank Certified)
 - 🏅 **[Business English Communication Skills](https://www.coursera.org/account/accomplishments/specialization/VA23KNUCMFJU)** (Coursera Certified)
 
@@ -111,6 +111,42 @@
 
 - Manufacturing quality issue analysis using Random Forest
 - **Tech Stack**: Python, Random Forest, Statistical Analysis, JMP
+
+### 🎓 Public Courses
+
+#### [DOE入门课：从方法到实践，60分钟轻松掌握DOE](https://www.jmp.com/zh-hans/resources/on-demand/local/jmp-doe-from-zero-on-demand)
+
+- DOE基础入门课程，涵盖应用场景、操作流程、经典案例与定制设计实战
+- **Topics**: DOE, Response Surface Design, Custom Design, JMP
+
+#### [DOE经典案例实战：产品研发与工艺优化的3种实验设计方法](https://www.jmp.com/zh-hans/resources/on-demand/local/doe-industry-cases-study)
+
+- 3大行业领域DOE应用实例，对比经典、最优与现代实验设计方法
+- **Topics**: DOE, Mixture Design, Space Filling Design, Machine Learning, SVEM
+
+#### [从0到1掌握DOE：为工程师定制的零基础DOE手册](https://www.jmp.com/zh-hans/resources/white-papers/doe-from-zero-for-engineers)
+
+- DOE核心知识与案例解析白皮书，帮助工程师从零基础快速掌握DOE
+- **Topics**: DOE, Custom Design, White Paper
+
+#### [45分钟完全入门质量分析：2大案例讲透质量工程师80%的数据分析场景](https://www.jmp.com/zh-hans/resources/on-demand/local/get-started-quality-engineer)
+
+- 通过SPC过程能力分析与六西格玛良率提升2大案例，覆盖质量工程师核心分析场景
+- **Topics**: Quality Analysis, SPC, MSA, DOE, Six Sigma, JMP
+
+### 📄 Publications
+
+#### [Hybrid effect of carbon nanotube film and ultrathin carbon fiber prepreg composites](https://journals.sagepub.com/doi/10.1177/0731684416684020)
+
+- Jiao Pan, Min Li, Shaokai Wang, Yizhuo Gu, Qingwen Li, Zuoguang Zhang
+- **Journal**: Journal of Reinforced Plastics and Composites, 2016
+- **Topics**: Carbon Nanotube Film, Carbon Fiber, Hybrid Composites, Mechanical Properties, Damping, Electrical Conductivity
+
+#### [Conductive Fabric, Preparation Method and Application Thereof (CN110106474B)](https://patents.google.com/patent/CN110106474B/en)
+
+- Invention Patent (China) — Tao Xu, Yefeng Xu, Jiao Pan
+- **Patent No.**: CN110106474B, Granted 2021
+- **Topics**: Conductive Fabric, Electromagnetic Properties
 
 ---
 
