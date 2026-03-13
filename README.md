@@ -14,7 +14,7 @@
 
 - ✨ **Focus: I design and deliver Data and AI solutions to generate real business value**
 - 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html)
-- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, Large Language Models (LLMs), AI Agent
+- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent
 - 🌐 **English Proficiency**: Intermediate-Advanced, Fluent Speaking, IELTS 7.5
 - 📫 **Email**: panjiao007@126.com
 - 📍 **Location**: Beijing, China
@@ -79,13 +79,13 @@
 
 ## 🎓 Certifications
 
-![Alibaba Cloud ACP](https://img.shields.io/badge/Alibaba%20Cloud%20ACP-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![JMP](https://img.shields.io/badge/JMP%20Statistical%20Analysis-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Business English](https://img.shields.io/badge/Business%20English-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Alibaba Cloud ACP](https://img.shields.io/badge/Alibaba%20Cloud%20ACP-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![Deep Learning Architect](https://img.shields.io/badge/Deep%20Learning%20Architect-0984E3?style=for-the-badge&logo=deeplearning&logoColor=white) ![JMP](https://img.shields.io/badge/JMP%20Statistical%20Analysis-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Business English](https://img.shields.io/badge/Business%20English-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 
 **Certifications:**
 
 - 🏅 **[ACP](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** - LLM - Alibaba Cloud Certified Professional
 - 🏅 **[PMP](https://www.credly.com/badges/fe82da05-17cf-4a20-b949-ef44f95b75b0/public_url)** - Project Management Professional (PMI Certified)
-- 🏅 [Deep Learning Architect](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)
+- 🏅 **[Deep Learning Architect](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** -  (MIIT Talent Exchange Center Certified)
 - 🏅 **[JMP Statistical Analysis](https://www.credly.com/badges/18d44ede-7045-4a93-b156-48b435f325f9/public_url)** - JMP Software Certification (SAS Certified)
 - 🏅 **[Python for Data Science, AI &amp; Development](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW)** - IBM Coursera Certificate
 - 🏅 **[SQL (Intermediate)](https://www.hackerrank.com/certificates/5a483dd934b9)** - HackerRank Certification
