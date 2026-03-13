@@ -12,12 +12,18 @@
 
 ## 🚀 About Me
 
-- ✨ **Focus: I design and deliver Data and AI solutions to generate real business value**
+- ✨ **Focus: I design and deliver Data and AI solutions to create real business value**
 - 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html)
 - 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent
 - 🌐 **English Proficiency**: Intermediate-Advanced, Fluent Speaking, IELTS 7.5
 - 📫 **Email**: panjiao007@126.com
 - 📍 **Location**: Beijing, China
+
+---
+
+## 💼 Core Skills
+
+**Core Skills**: Data Science | Statistical Analysis | Data Visualization | Machine Learning | Deep Learning | LLM | RAG | AI Agent | JMP JSL Application Development | Project Management | Smart Manufacturing | Materials Science | Six Sigma | NPI | Quality Control | Process Improvement | DOE | SPC
 
 ---
 
@@ -29,11 +35,7 @@
 
 ### 📊 Data Science & Visualization
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
 
 ### 🤖 AI/ML Frameworks
 
@@ -41,55 +43,35 @@
 
 ### 🧠 Deep Learning Algorithms
 
-![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-FF6B6B?style=for-the-badge)
-![RNN](https://img.shields.io/badge/RNN-Recurrent%20Neural%20Network-4ECDC4?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-Long%20Short--Term%20Memory-95E1D3?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-You%20Only%20Look%20Once-00FFFF?style=for-the-badge)
-![Transformer](https://img.shields.io/badge/Transformer-Attention%20Mechanism-FFD21E?style=for-the-badge)
-![ResNet](https://img.shields.io/badge/ResNet-Residual%20Network-FF6B9D?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-FF6B6B?style=for-the-badge) ![RNN](https://img.shields.io/badge/RNN-Recurrent%20Neural%20Network-4ECDC4?style=for-the-badge) ![LSTM](https://img.shields.io/badge/LSTM-Long%20Short--Term%20Memory-95E1D3?style=for-the-badge) ![YOLO](https://img.shields.io/badge/YOLO-You%20Only%20Look%20Once-00FFFF?style=for-the-badge) ![Transformer](https://img.shields.io/badge/Transformer-Attention%20Mechanism-FFD21E?style=for-the-badge) ![ResNet](https://img.shields.io/badge/ResNet-Residual%20Network-FF6B9D?style=for-the-badge)
 
 ### 🧠 LLM & AI Product
 
-![LLMs](https://img.shields.io/badge/LLMs-GPT%20%7C%20Qwen-8A2BE2?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-API%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Vector%20DB%20%7C%20Embedding%20%7C%20Knowledge%20Base-00B894?style=for-the-badge)
-![LangChain | LangGraph](https://img.shields.io/badge/LangChain%20%7C%20LangGraph-LLM%20Framework-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-Function%20Calling%20%7C%20ReAct%20%7C%20Multi--Agent-0984E3?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Task%20Planning%20%7C%20Workflow%20Orchestration-9B59B6?style=for-the-badge)
-![Coze | Dify](https://img.shields.io/badge/Coze%20%7C%20Dify-AI%20App%20Platform-FF6B00?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-GPT%20%7C%20Qwen-8A2BE2?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-API%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-Vector%20DB%20%7C%20Embedding%20%7C%20Knowledge%20Base-00B894?style=for-the-badge) ![LangChain | LangGraph](https://img.shields.io/badge/LangChain%20%7C%20LangGraph-LLM%20Framework-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-Function%20Calling%20%7C%20ReAct%20%7C%20Multi--Agent-0984E3?style=for-the-badge) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Task%20Planning%20%7C%20Workflow%20Orchestration-9B59B6?style=for-the-badge) ![Coze | Dify](https://img.shields.io/badge/Coze%20%7C%20Dify-AI%20App%20Platform-FF6B00?style=for-the-badge)
 
 ---
 
 ## 🏭 Smart Manufacturing
 
-![Materials Science](https://img.shields.io/badge/Materials%20Science-Research%20%26%20Development-8B4513?style=for-the-badge)
-![Polymer Composites](https://img.shields.io/badge/Polymer%20Composites-Carbon%20Fiber%20%7C%20Functional%20Composites%20%7C%20Flexible%20Composites-2C3E50?style=for-the-badge)
-![Electromagnetic Simulation](https://img.shields.io/badge/Electromagnetic%20Simulation-Altair%20FEKO%20%7C%20Matlab-16A085?style=for-the-badge)
-![NPI](https://img.shields.io/badge/NPI-EVT%20%7C%20DVT%20%7C%20PVT%20%7C%20MP-27AE60?style=for-the-badge)
-![Six Sigma](https://img.shields.io/badge/Six%20Sigma-Process%20Improvement%20%7C%20Quality%20Control%20%7C%20DOE%20%7C%20SPC-E67E22?style=for-the-badge)
-
----
-
-## 💼 Core Skills
-
-**Core Skills**: Data Science | Statistical Analysis | Data Visualization | Machine Learning | Deep Learning | LLMs | RAG | AI Agent | JMP JSL Application Development | Project Management | Smart Manufacturing | Materials Science | Six Sigma | NPI | Quality Control | Process Improvement | DOE | SPC
+![Materials Science](https://img.shields.io/badge/Materials%20Science-Research%20%26%20Development-8B4513?style=for-the-badge) ![Polymer Composites](https://img.shields.io/badge/Polymer%20Composites-Carbon%20Fiber%20%7C%20Functional%20Composites%20%7C%20Flexible%20Composites-2C3E50?style=for-the-badge) ![Electromagnetic Simulation](https://img.shields.io/badge/Electromagnetic%20Simulation-Altair%20FEKO%20%7C%20Matlab-16A085?style=for-the-badge) ![NPI](https://img.shields.io/badge/NPI-EVT%20%7C%20DVT%20%7C%20PVT%20%7C%20MP-27AE60?style=for-the-badge) ![Six Sigma](https://img.shields.io/badge/Six%20Sigma-Process%20Improvement%20%7C%20Quality%20Control%20%7C%20DOE%20%7C%20SPC-E67E22?style=for-the-badge)
 
 ---
 
 ## 🎓 Certifications
 
-![Alibaba Cloud ACP](https://img.shields.io/badge/Alibaba%20Cloud%20ACP-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![Deep Learning Architect](https://img.shields.io/badge/Deep%20Learning%20Architect-0984E3?style=for-the-badge&logo=deeplearning&logoColor=white) ![JMP](https://img.shields.io/badge/JMP%20Statistical%20Analysis-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Business English](https://img.shields.io/badge/Business%20English-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Deep Learning Architect](https://img.shields.io/badge/Deep%20Learning%20Architect-0984E3?style=for-the-badge&logo=deeplearning&logoColor=white) ![Alibaba Cloud ACP](https://img.shields.io/badge/Alibaba%20Cloud%20ACP-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![SAS](https://img.shields.io/badge/SAS%20Certified-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 **Certifications:**
 
-- 🏅 **[ACP](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** - LLM - Alibaba Cloud Certified Professional
-- 🏅 **[PMP](https://www.credly.com/badges/fe82da05-17cf-4a20-b949-ef44f95b75b0/public_url)** - Project Management Professional (PMI Certified)
-- 🏅 **[Deep Learning Architect](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** -  (MIIT Talent Exchange Center Certified)
-- 🏅 **[JMP Statistical Analysis](https://www.credly.com/badges/18d44ede-7045-4a93-b156-48b435f325f9/public_url)** - JMP Software Certification (SAS Certified)
-- 🏅 **[Python for Data Science, AI &amp; Development](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW)** - IBM Coursera Certificate
-- 🏅 **[SQL (Intermediate)](https://www.hackerrank.com/certificates/5a483dd934b9)** - HackerRank Certification
-- 🏅 **[Business English](https://www.coursera.org/account/accomplishments/specialization/VA23KNUCMFJU)** - Coursera Specialization
+- 🏅 **[Deep Learning Architect](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** (MIIT Talent Exchange Center Certified)
+- 🏅 **[ACP - LLM](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** (Alibaba Cloud Certified)
+- 🏅 **[PMP](https://www.credly.com/badges/a758c464-6935-4adc-9cf2-d5785520fc5e)** (PMI Certified)
+- 🏅 **[Statistical Thinking and Problem Solving](https://www.credly.com/badges/18d44ede-7045-4a93-b156-48b435f325f9/public_url)** (SAS Certified)
+- 🏅 **[Exploratory Data Analysis](https://www.credly.com/badges/60dde99a-3fc5-4823-b207-098da667ed2a/public_url)** (SAS Certified)
+- 🏅 **[Quality Methods](https://www.credly.com/badges/d2f98c3c-4910-4243-9771-40139310ae99/public_url)** (SAS Certified)
+- 🏅 **[Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/K5E5ST5SYFCW)** (IBM / Coursera Certified)
+- 🏅 **[SQL (Intermediate)](https://www.hackerrank.com/certificates/5a483dd934b9)** (HackerRank Certified)
+- 🏅 **[Business English Communication Skills](https://www.coursera.org/account/accomplishments/specialization/VA23KNUCMFJU)** (Coursera Certified)
 
 ---
 
