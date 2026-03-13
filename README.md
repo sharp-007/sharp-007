@@ -100,15 +100,15 @@
 
 ### 📊 Data Science Projects
 
-#### [Digit Recognizer](https://github.com/sharp-007/Digit-Recognizer)
-
-- Handwritten digit recognition project
-- **Tech Stack**: Python, Machine Learning, Data Science
-
 #### [Arcing Issue Solution with Random Forest](https://github.com/sharp-007/Arcing-Issue-Solution-with-Random-Forest)
 
 - Manufacturing quality issue analysis using Random Forest
 - **Tech Stack**: Python, Random Forest, Statistical Analysis, JMP
+
+#### [Digit Recognizer](https://github.com/sharp-007/Digit-Recognizer)
+
+- Handwritten digit recognition project
+- **Tech Stack**: Python, Machine Learning, Data Science
 
 ### 🎓 Public Courses
 
