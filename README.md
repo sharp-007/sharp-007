@@ -77,6 +77,12 @@
 
 ### 🤖 AI Projects
 
+#### [Dify Agents](https://github.com/sharp-007/Dify_Agents)
+
+- A collection of AI agents built on Dify, including RAG-based statistical analysis assistant and news anchor-style TTS agents
+- **Tech Stack**: Dify, Qwen, RAG, LLM, AI Agent, TTS
+- **Online Demo**: [JMP Statistical Course Assistant](https://udify.app/chat/UL4PbOhMrGkGXTrn) | [TTS-中文版](https://udify.app/chat/swjRS3lGUIYYmziF) | [TTS-English](https://udify.app/chat/hbWEslMR7wABhHGS)
+
 #### [Carbon Fiber Defect Detection System](https://github.com/sharp-007/carbon_fiber_defect_detection_system_pyhton3.10)
 
 - Deep learning-based defect detection system for quality control in manufacturing industry
