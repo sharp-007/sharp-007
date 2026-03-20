@@ -23,7 +23,11 @@
 
 ## 💼 Core Skills
 
-**Core Skills**: Data Science | Statistical Analysis | Data Visualization | Machine Learning | Deep Learning | LLM | RAG | AI Agent | JMP JSL Application Development | Project Management | Smart Manufacturing | Materials Science | Six Sigma | NPI | Quality Control | Process Improvement | DOE | SPC
+- 📊 **Programming & Data Science**: Python | SQL | Git | JMP | JSL | Pandas | NumPy | Matplotlib | Scikit-learn | Streamlit
+- 🤖 **AI & LLM**: Machine Learning | Deep Learning | Computer Vision | PyTorch | CNN | ResNet | YOLO | LLM | Prompt Engineering | RAG | AI Agent | Function Calling | LangChain | LlamaIndex | Ollama | Dify | Alibaba Cloud Model Studio | AI Coding | Cursor
+- 📋 **Project Management**: PMP | Agile/Scrum | Stakeholder Management | Cross-Functional Collaboration
+- 📐 **Six Sigma**: Process Improvement | DOE | SPC
+- 🌐 **Languages**: English (fluent, CET-6: 568, IELTS: 7.5) | Mandarin (native)
 
 ---
 
@@ -31,7 +35,7 @@
 
 ### 💻 Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JMP](https://img.shields.io/badge/JMP-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![JMP](https://img.shields.io/badge/JMP-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![JSL](https://img.shields.io/badge/JSL-FF8C00?style=for-the-badge)
 
 ### 📊 Data Science & Visualization
 
@@ -47,11 +51,15 @@
 
 ### ⚡ LLM & AI Product
 
-![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-00B894?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=for-the-badge) ![AI Agent](https://img.shields.io/badge/AI%20Agent-0984E3?style=for-the-badge) ![Coze | Dify](https://img.shields.io/badge/Coze%20%7C%20Dify-FF6B00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-00B894?style=for-the-badge) ![AI Agent](https://img.shields.io/badge/AI%20Agent-0984E3?style=for-the-badge) ![Function Calling](https://img.shields.io/badge/Function%20Calling-2980B9?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black) ![Dify](https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge) ![阿里云百炼](https://img.shields.io/badge/阿里云百炼-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AI 编程](https://img.shields.io/badge/AI%20编程-00D4AA?style=for-the-badge) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-### 🏭 Smart Manufacturing
+### 📋 Project Management
 
-![Materials Science](https://img.shields.io/badge/Materials%20Science-8B4513?style=for-the-badge) ![Polymer Composites](https://img.shields.io/badge/Polymer%20Composites-2C3E50?style=for-the-badge) ![EM Simulation](https://img.shields.io/badge/EM%20Simulation-16A085?style=for-the-badge) ![NPI](https://img.shields.io/badge/NPI-27AE60?style=for-the-badge) ![Six Sigma](https://img.shields.io/badge/Six%20Sigma-E67E22?style=for-the-badge) ![DOE](https://img.shields.io/badge/DOE-E74C3C?style=for-the-badge) ![SPC](https://img.shields.io/badge/SPC-3498DB?style=for-the-badge)
+![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-47A248?style=for-the-badge)
+
+### 🏭 Smart Manufacturing & Six Sigma
+
+![Six Sigma](https://img.shields.io/badge/Six%20Sigma-E67E22?style=for-the-badge) ![DOE](https://img.shields.io/badge/DOE-E74C3C?style=for-the-badge) ![SPC](https://img.shields.io/badge/SPC-3498DB?style=for-the-badge) ![Materials Science](https://img.shields.io/badge/Materials%20Science-8B4513?style=for-the-badge) ![NPI](https://img.shields.io/badge/NPI-27AE60?style=for-the-badge)
 
 ---
 
