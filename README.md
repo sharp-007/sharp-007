@@ -78,12 +78,14 @@
 - A collection of AI agents built on Dify, including RAG-based statistical analysis assistant and news anchor-style TTS agents
 - **Tech Stack**: Dify, Qwen, RAG, LLM, AI Agent, TTS
 - **Online Demo**: [JMP Statistical Course Assistant](https://udify.app/chat/UL4PbOhMrGkGXTrn) | [TTS-中文版](https://udify.app/chat/swjRS3lGUIYYmziF) | [TTS-English](https://udify.app/chat/hbWEslMR7wABhHGS)
+- **Video Demo**: [YouTube - RAG Assistant](https://youtu.be/cIeVL_LVJzc?si=qagvOE6xGm_SHyBI) | [YouTube - TTS Agent](https://youtu.be/ZA0DcXliXfk?si=XSLiF2w8MHToCZ9S)
 
 #### [Carbon Fiber Defect Detection System](https://github.com/sharp-007/carbon_fiber_defect_detection_system_pyhton3.10)
 
 - Deep learning-based defect detection system for quality control in manufacturing industry
 - **Tech Stack**: Python, PyTorch, OpenCV, YOLO, Streamlit, Computer Vision
 - **Online Demo**: [Streamlit App](https://carbon-fiber-defect-detection-system.streamlit.app/)
+- **Video Demo**: [YouTube](https://youtu.be/EXzDLKLUBks?si=uWNxISJZhz_-_Gka)
 
 #### [Industrial Agent Mini Demo](https://github.com/sharp-007/industrial_agent_mini_demo)
 
@@ -101,6 +103,12 @@
 - **Tech Stack**: PyTorch, Deep Learning, Transfer Learning
 
 ### 📊 Data Science Projects
+
+#### [Hexi Corridor Silk Road](https://github.com/sharp-007/Hexi-Corridor-Silk-Road)
+
+- A data-driven journey along China's ancient Silk Road, combining JMP interactive data visualization with travel storytelling across geography, history, culture, and climate
+- **Tech Stack**: JMP, Graph Builder, Data Visualization, Interactive Journal
+- **Video**: [YouTube](https://www.youtube.com/watch?v=bP5fksosc08)
 
 #### [Arcing Issue Solution with Random Forest](https://github.com/sharp-007/Arcing-Issue-Solution-with-Random-Forest)
 
