@@ -75,10 +75,10 @@
 
 #### [Dify Agents](https://github.com/sharp-007/Dify_Agents)
 
-- A collection of AI agents built on Dify, including RAG-based statistical analysis assistant and news anchor-style TTS agents
-- **Tech Stack**: Dify, Qwen, RAG, LLM, AI Agent, TTS
-- **Online Demo**: [JMP Statistical Course Assistant](https://udify.app/chat/UL4PbOhMrGkGXTrn) | [TTS-中文版](https://udify.app/chat/swjRS3lGUIYYmziF) | [TTS-English](https://udify.app/chat/hbWEslMR7wABhHGS)
-- **Video Demo**: [YouTube - RAG Assistant](https://youtu.be/cIeVL_LVJzc?si=qagvOE6xGm_SHyBI) | [YouTube - TTS Agent](https://youtu.be/ZA0DcXliXfk?si=XSLiF2w8MHToCZ9S)
+- A collection of AI agents built on Dify, including RAG-based statistical analysis assistant (STIPS course) and Doubao-powered TTS workflow
+- **Tech Stack**: Dify, Qwen, Doubao TTS, RAG, LLM, AI Agent
+- **Online Demo**: [JMP Statistical Course Assistant](https://udify.app/chat/UL4PbOhMrGkGXTrn) | [TTS Workflow](https://udify.app/workflow/x6pbDMMEEo3okRxY)
+- **Video Demo**: [YouTube - RAG Assistant](https://youtu.be/cIeVL_LVJzc?si=qagvOE6xGm_SHyBI) | [YouTube - TTS Workflow](https://youtu.be/ZA0DcXliXfk?si=XSLiF2w8MHToCZ9S)
 
 #### [Carbon Fiber Defect Detection System](https://github.com/sharp-007/carbon_fiber_defect_detection_system_pyhton3.10)
 
