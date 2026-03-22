@@ -78,7 +78,7 @@
 - A collection of AI agents built on Dify, including RAG-based statistical analysis assistant (STIPS course) and Doubao-powered TTS workflow
 - **Tech Stack**: Dify, Qwen, Doubao TTS, RAG, LLM, AI Agent
 - **Online Demo**: [JMP Statistical Course Assistant](https://udify.app/chat/UL4PbOhMrGkGXTrn) | [TTS Workflow](https://udify.app/workflow/x6pbDMMEEo3okRxY)
-- **Video Demo**: [YouTube - RAG Assistant](https://youtu.be/cIeVL_LVJzc?si=qagvOE6xGm_SHyBI) | [YouTube - TTS Workflow](https://youtu.be/ZA0DcXliXfk?si=XSLiF2w8MHToCZ9S)
+- **Video Demo**: [YouTube - RAG Assistant](https://youtu.be/cIeVL_LVJzc?si=qagvOE6xGm_SHyBI) | [YouTube - TTS Workflow](https://www.youtube.com/watch?v=cAyfcVhefHw)
 
 #### [Carbon Fiber Defect Detection System](https://github.com/sharp-007/carbon_fiber_defect_detection_system_pyhton3.10)
 
