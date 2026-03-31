@@ -26,7 +26,7 @@
 - 📊 **Programming & Data Science**: Python | SQL | Git | JMP | JSL | Pandas | NumPy | Matplotlib | Scikit-learn | Streamlit
 - 🤖 **AI & LLM**: Machine Learning | Deep Learning | Computer Vision | PyTorch | CNN | ResNet | YOLO | LLM | Prompt Engineering | RAG | AI Agent | Function Calling | LangChain | LlamaIndex | Ollama | Dify | Alibaba Cloud Model Studio | AI Coding | Cursor
 - 📋 **Project Management**: PMP | Agile/Scrum | Stakeholder Management | Cross-Functional Collaboration
-- 📐 **Six Sigma**: Process Improvement | DOE | SPC
+- 📐 **Six Sigma**: Process Improvement | Root Cause Analysis | DOE | SPC
 - 🌐 **Languages**: English (fluent, CET-6: 568, IELTS: 7.5) | Mandarin (native)
 
 ---
@@ -47,7 +47,7 @@
 
 ### 📐 Six Sigma
 
-![Process Improvement](https://img.shields.io/badge/Process%20Improvement-E67E22?style=for-the-badge) ![DOE](https://img.shields.io/badge/DOE-E74C3C?style=for-the-badge) ![SPC](https://img.shields.io/badge/SPC-3498DB?style=for-the-badge)
+![Process Improvement](https://img.shields.io/badge/Process%20Improvement-E67E22?style=for-the-badge) ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-9B59B6?style=for-the-badge) ![DOE](https://img.shields.io/badge/DOE-E74C3C?style=for-the-badge) ![SPC](https://img.shields.io/badge/SPC-3498DB?style=for-the-badge)
 
 ---
 
@@ -77,7 +77,7 @@
 
 - A collection of AI agents built on Dify, including RAG-based statistical analysis assistant (STIPS course) and Doubao-powered TTS workflow
 - **Tech Stack**: Dify, Qwen, Doubao TTS, RAG, LLM, AI Agent
-- **Online Demo**: [JMP Statistical Course Assistant](https://udify.app/chat/UL4PbOhMrGkGXTrn) | [TTS Workflow](https://udify.app/workflow/x6pbDMMEEo3okRxY)
+- **Online Demo**: [JMP Statistical Course Assistant](https://udify.app/chat/XT3989ncVdT34kF1) | [TTS Workflow](https://udify.app/workflow/x6pbDMMEEo3okRxY)
 - **Video Demo**: [YouTube - RAG Assistant](https://youtu.be/cIeVL_LVJzc?si=qagvOE6xGm_SHyBI) | [YouTube - TTS Workflow](https://www.youtube.com/watch?v=cAyfcVhefHw)
 
 #### [Carbon Fiber Defect Detection System](https://github.com/sharp-007/carbon_fiber_defect_detection_system_pyhton3.10)
