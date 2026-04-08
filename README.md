@@ -73,6 +73,12 @@
 
 ### 🤖 AI Projects
 
+#### [ChatBI OEE](https://github.com/sharp-007/ChatBI_OEE)
+
+- ChatBI OEE — an intelligent manufacturing OEE analysis platform combining traditional BI dashboards with AI-powered conversational analytics via NL2SQL
+- **Tech Stack**: FastAPI, Streamlit, Qwen (DashScope), MySQL, NL2SQL, SQLAlchemy, Plotly
+- **Video Demo**: [AI-Native ChatBI Is All You Need](https://www.youtube.com/watch?v=uN0ACWdIo_w)
+
 #### [Dify Agents](https://github.com/sharp-007/Dify_Agents)
 
 - A collection of AI agents built on Dify, including RAG-based statistical analysis assistant (STIPS course) and Doubao-powered TTS workflow
