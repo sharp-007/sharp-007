@@ -181,3 +181,13 @@
 ⭐️ From [sharp-007](https://github.com/sharp-007)
 
 </div>
+
+---
+
+## ⭐ Star History
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sharp-007/ChatBI_OEE,sharp-007/carbon_fiber_defect_detection_system_python3.10,sharp-007/Hexi-Corridor-Silk-Road,sharp-007/industrial_agent_mini_demo,sharp-007/Langchain_Ollama_Agents,sharp-007/Dify_Agents,sharp-007/mini_demo_with_AssetOpsBench&type=Date)](https://star-history.com/#sharp-007/ChatBI_OEE&sharp-007/carbon_fiber_defect_detection_system_python3.10&sharp-007/Hexi-Corridor-Silk-Road&sharp-007/industrial_agent_mini_demo&sharp-007/Langchain_Ollama_Agents&sharp-007/Dify_Agents&sharp-007/mini_demo_with_AssetOpsBench&Date)
+
+</div>
