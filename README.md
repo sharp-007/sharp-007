@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Joyce Pan
 
-### 🤖 Data Science & AI Solution | Engineering Background
+### 🤖 Data +AI | Industrial AI | Manufacturing Background
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/HuggingFace-JoycePan-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan) [![Email](https://img.shields.io/badge/Email-pj0072014@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pj0072014@126.com)
 
@@ -14,7 +14,7 @@
 
 - ✨ **Focus: I design and deliver Data and AI solutions to create real business value**
 - 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html)
-- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent
+- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI
 - 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
 - 📫 **Email**: pj0072014@126.com
 - 📍 **Location**: Beijing, China
