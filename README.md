@@ -4,7 +4,7 @@
 
 ### 🤖 Data +AI | Industrial AI | Manufacturing Background
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/HuggingFace-JoycePan-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan) [![Email](https://img.shields.io/badge/Email-pj0072014@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pj0072014@126.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/HuggingFace-JoycePan-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 </div>
 
@@ -16,7 +16,7 @@
 - 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html)
 - 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI
 - 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
-- 📫 **Email**: pj0072014@126.com
+- 📫 **Email**: panjiao007@126.com
 - 📍 **Location**: Beijing, China
 
 ---
@@ -24,7 +24,7 @@
 ## 💼 Core Skills
 
 - 📊 **Programming & Data Science**: Python | SQL | Git | JMP | JSL | Pandas | NumPy | Matplotlib | Scikit-learn | Streamlit
-- 🤖 **AI & LLM**: Machine Learning | Deep Learning | Computer Vision | PyTorch | CNN | ResNet | YOLO | LLM | Prompt Engineering | RAG | AI Agent | Function Calling | LangChain | LlamaIndex | Ollama | Dify | Alibaba Cloud Model Studio | AI Coding | Cursor
+- 🤖 **AI & LLM**: Machine Learning | Deep Learning | Computer Vision | PyTorch | CNN | ResNet | YOLO | LLM | Prompt Engineering | RAG | AI Agent | LangChain | LlamaIndex | Ollama | Dify | Alibaba Cloud Model Studio | Vibe Coding | Cursor | Claude Code
 - 📋 **Project Management**: PMP | Agile/Scrum | Stakeholder Management | Cross-Functional Collaboration
 - 📐 **Six Sigma**: Process Improvement | Root Cause Analysis | DOE | SPC
 - 🌐 **Languages**: English (fluent, CET-6: 568, IELTS: 7.5) | Mandarin (native)
@@ -39,7 +39,7 @@
 
 ### 🤖 AI & LLM
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0984E3?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8B5CF6?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=for-the-badge) ![ResNet](https://img.shields.io/badge/ResNet-FF6B9D?style=for-the-badge) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge) ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-00B894?style=for-the-badge) ![AI Agent](https://img.shields.io/badge/AI%20Agent-0984E3?style=for-the-badge) ![Function Calling](https://img.shields.io/badge/Function%20Calling-2980B9?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black) ![Dify](https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge) ![Alibaba Cloud Model Studio](https://img.shields.io/badge/Alibaba%20Cloud%20Model%20Studio-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AI Coding](https://img.shields.io/badge/AI%20Coding-00D4AA?style=for-the-badge) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0984E3?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8B5CF6?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=for-the-badge) ![ResNet](https://img.shields.io/badge/ResNet-FF6B9D?style=for-the-badge) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge) ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-00B894?style=for-the-badge) ![AI Agent](https://img.shields.io/badge/AI%20Agent-0984E3?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black) ![Dify](https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge) ![Alibaba Cloud Model Studio](https://img.shields.io/badge/Alibaba%20Cloud%20Model%20Studio-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-00D4AA?style=for-the-badge) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### 📋 Project Management
 
@@ -168,7 +168,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/HuggingFace-JoycePan-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan) [![Email](https://img.shields.io/badge/Email-pj0072014@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pj0072014@126.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Hugging Face](https://img.shields.io/badge/HuggingFace-JoycePan-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/JoycePan) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 </div>
 
@@ -179,15 +179,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sharp-007&color=blueviolet&style=flat-square)
 
 ⭐️ From [sharp-007](https://github.com/sharp-007)
-
-</div>
-
----
-
-## ⭐ Star History
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sharp-007/ChatBI_OEE,sharp-007/carbon_fiber_defect_detection_system_python3.10,sharp-007/Hexi-Corridor-Silk-Road,sharp-007/industrial_agent_mini_demo,sharp-007/Langchain_Ollama_Agents,sharp-007/Dify_Agents,sharp-007/mini_demo_with_AssetOpsBench&type=Date)](https://star-history.com/#sharp-007/ChatBI_OEE&sharp-007/carbon_fiber_defect_detection_system_python3.10&sharp-007/Hexi-Corridor-Silk-Road&sharp-007/industrial_agent_mini_demo&sharp-007/Langchain_Ollama_Agents&sharp-007/Dify_Agents&sharp-007/mini_demo_with_AssetOpsBench&Date)
 
 </div>
