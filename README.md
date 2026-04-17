@@ -170,7 +170,7 @@
 
 欢迎 **Vibe Coding** 项目合作与案例展示；欢迎 **Data+AI** / **Industrial AI** 项目合作。
 
-*Open to **Vibe Coding** collaborations and case showcases, and to **Data+AI** / **Industrial AI** projects—let's connect.*
+*Open to **Vibe Coding** collaborations and case showcases; Open to **Data+AI** / **Industrial AI** projects collaboration. Let's connect.*
 
 <br/>
 
