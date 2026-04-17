@@ -181,3 +181,21 @@
 ⭐️ From [sharp-007](https://github.com/sharp-007)
 
 </div>
+
+---
+
+## 🤝 Collaboration · 合作
+
+<div align="center">
+
+欢迎 **Vibe Coding** 项目合作与案例展示；欢迎 **Data+AI** / **Industrial AI** 项目合作。
+
+*Open to **Vibe Coding** collaborations and case showcases, and to **Data+AI** / **Industrial AI** projects—let's connect.*
+
+<br/>
+
+| 微信公众号 · 失控的智能 | 视频号 |
+|:---:|:---:|
+| ![WeChat Official Account — 失控的智能](image/公众号%20失控的智能.png) | ![WeChat Channels QR](image/视频号二维码1.jpg) |
+
+</div>
