@@ -14,7 +14,7 @@
 
 ## 🚀 关于我
 
-- ✨ **专注方向：设计并交付Data+AI解决方案，创造真实业务价值**
+- ✨ **专注方向：设计并交付Data+AI产品与解决方案，创造真实业务价值**
 - 💼 **曾就职于**：[SAS](https://www.sas.com/en_hk/home.html) 数据分析顾问 - [JMP统计分析软件](https://www.jmp.com/zh-hans/home)
 - 🔬 **主要研究领域**：数据科学、机器学习、深度学习、计算机视觉、大语言模型、RAG、AI Agent、ChatBI、AIGC
 - 🌐 **英语水平**：流利口语，雅思7.5

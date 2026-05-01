@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- ✨ **Focus: I design and deliver Data and AI solutions to create real business value**
+- ✨ **Focus: I design and deliver Data+AI products and solutions to create real business value**
 - 💼 **Former**: Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html) - [JMP Statistical Analysis Software](https://www.jmp.com/en/home)
 - 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI, AIGC
 - 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
