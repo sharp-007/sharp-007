@@ -14,10 +14,13 @@
 
 ## 🚀 About Me
 
-- ✨ **Focus: I design and deliver Data+AI products and solutions to create real business value**
+- ✨ **Focus: I design Data+AI products and deliver digital & intelligent transformation solutions to create real business value**
+- 🏷️ **Keywords**: Data + AI｜Industrial AI | B2B Pre-Sales Data Analysis Consulting｜Manufacturing Product R&D Experience
 - 💼 **Former**: Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html) - [JMP Statistical Analysis Software](https://www.jmp.com/en/home)
 - 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI, AIGC
+- 🎬 **Personal Interest**: Full-pipeline AIGC original short film production
 - 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
+- 💡 **Open to Work**: Available for hiring / project collaboration
 - 📫 **Email**: panjiao007@126.com
 - 📍 **Location**: Beijing, China
 
@@ -65,7 +68,7 @@
 
 ### 🤖 AI Projects
 
-#### [城市角落的光 | Light Everywhere | AI原创音乐MV | AIGC原创动画短片](https://www.youtube.com/watch?v=OMIchR2C6qs)
+#### [Light Everywhere | Original AI Music Video | Original AIGC Animated Short Film](https://www.youtube.com/watch?v=OMIchR2C6qs)
 
 - Independently completed the entire songwriting and music video production pipeline, including: lyrics creation, lyrics polishing, song generation, story design, character creation, scene design, storyboard generation, prompt engineering, video generation, video compositing, lyrics subtitle integration, content publishing and operations
 - **Tech Stack**: MiniMax Music-2.6, Seedance 2.0 Fast, AIGC, AI Music Generation, AI Video Generation

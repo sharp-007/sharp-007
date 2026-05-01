@@ -14,10 +14,13 @@
 
 ## 🚀 关于我
 
-- ✨ **专注方向：设计并交付Data+AI产品与解决方案，创造真实业务价值**
+- ✨ **专注方向：设计Data+AI产品，交付数智化转型解决方案，创造真实业务价值**
+- 🏷️ **关键词**：数据智能 | 工业AI｜B2B售前数据分析经验｜制造业产品研发经验
 - 💼 **曾就职于**：[SAS](https://www.sas.com/en_hk/home.html) 数据分析顾问 - [JMP统计分析软件](https://www.jmp.com/zh-hans/home)
 - 🔬 **主要研究领域**：数据科学、机器学习、深度学习、计算机视觉、大语言模型、RAG、AI Agent、ChatBI、AIGC
+- 🎬 **个人兴趣**：AIGC原创短片全流程制作
 - 🌐 **英语水平**：流利口语，雅思7.5
+- 💡 **Open to Work**：招聘/项目合作请联系
 - 📫 **邮箱**：panjiao007@126.com
 - 📍 **所在地**：中国 北京
 
@@ -71,13 +74,13 @@
 - **技术栈**：MiniMax Music-2.6、Seedance 2.0 Fast、AIGC、AI音乐生成、AI视频生成
 - **视频**：[YouTube](https://www.youtube.com/watch?v=OMIchR2C6qs) | [Bilibili](https://www.bilibili.com/video/BV1pyofB2Ebe/)
 
-#### [ChatBI OEE](https://github.com/sharp-007/ChatBI_OEE)
+#### [ChatBI OEE · 智能制造对话式BI](https://github.com/sharp-007/ChatBI_OEE)
 
 - 智能制造OEE分析平台，融合传统BI看板与基于NL2SQL的AI对话式分析
 - **技术栈**：FastAPI、Streamlit、Qwen（DashScope）、MySQL、NL2SQL、SQLAlchemy、Plotly
 - **视频演示**：[AI-Native ChatBI Is All You Need](https://www.youtube.com/watch?v=uN0ACWdIo_w)
 
-#### [Dify Agents](https://github.com/sharp-007/Dify_Agents)
+#### [Dify Agents · Dify智能体合集](https://github.com/sharp-007/Dify_Agents)
 
 - 基于Dify构建的AI Agent合集，包括RAG统计分析助手（STIPS课程）和豆包TTS工作流
 - **技术栈**：Dify、Qwen、豆包TTS、RAG、LLM、AI Agent
@@ -91,12 +94,12 @@
 - **在线体验**：[Streamlit App](https://carbon-fiber-defect-detection-system.streamlit.app/)
 - **视频演示**：[YouTube](https://youtu.be/EXzDLKLUBks?si=uWNxISJZhz_-_Gka)
 
-#### [工业智能体Mini Demo](https://github.com/sharp-007/industrial_agent_mini_demo)
+#### [RAG工业知识问答智能体](https://github.com/sharp-007/industrial_agent_mini_demo)
 
 - 基于RAG的工业智能体Demo，支持PDF文档处理与语义检索
 - **技术栈**：React、FastAPI、LangChain、ChromaDB、Qwen、LLM、RAG
 
-#### [Mini Demo with AssetOpsBench](https://github.com/sharp-007/mini_demo_with_AssetOpsBench)
+#### [AssetOpsBench资产运维迷你智能体](https://github.com/sharp-007/mini_demo_with_AssetOpsBench)
 
 - 基于[AssetOpsBench](https://github.com/IBM/AssetOpsBench)的资产管理运维AI Agent Demo
 - **技术栈**：React、Python、LLM、AI Agent
