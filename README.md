@@ -1,12 +1,12 @@
-
+**English** | [中文](README_CN.md)
 
 # 👋 Hi, I'm Joyce Pan
 
 ### 🤖 Data +AI | Industrial AI | Manufacturing Background
 
-[LinkedIn](https://www.linkedin.com/in/joyce-pan-549596138/) [GitHub](https://github.com/sharp-007) [Email](mailto:panjiao007@126.com)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sharp-007)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 ---
 
@@ -14,7 +14,7 @@
 
 - ✨ **Focus: I design and deliver Data and AI solutions to create real business value**
 - 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html)
-- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI
+- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI, AIGC
 - 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
 - 📫 **Email**: [panjiao007@126.com](mailto:panjiao007@126.com)
 - 📍 **Location**: Beijing, China
@@ -25,25 +25,64 @@
 
 ### 📊 Programming & Data Science
 
-Python SQL Git JMP JSL Pandas NumPy Matplotlib Scikit--learn Streamlit
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![JMP](https://img.shields.io/badge/JMP-0078D4?style=flat&logoColor=white)
+![JSL](https://img.shields.io/badge/JSL-0078D4?style=flat&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### 🤖 AI & LLM
 
-Machine Learning Deep Learning Computer Vision PyTorch CNN ResNet YOLO LLM Prompt Engineering RAG AI Agent LangChain LlamaIndex Ollama Dify Alibaba Cloud Model Studio Vibe Coding Cursor Claude Code
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-01D277?style=flat&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat&logoColor=white)
+![ResNet](https://img.shields.io/badge/ResNet-FF6F00?style=flat&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
+![LLM](https://img.shields.io/badge/LLM-412991?style=flat&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-412991?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2D8E?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-1677FF?style=flat&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud%20Model%20Studio-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-8B5CF6?style=flat&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D4A574?style=flat&logoColor=white)
+![AIGC](https://img.shields.io/badge/AIGC-FF4081?style=flat&logoColor=white)
 
 ### 📋 Project Management
 
-PMP Agile/Scrum Stakeholder Management Cross-Functional Collaboration
+![PMP](https://img.shields.io/badge/PMP-2E59A7?style=flat&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-47A248?style=flat&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-FF8C00?style=flat&logoColor=white)
+![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-4285F4?style=flat&logoColor=white)
 
 ### 📐 Six Sigma
 
-Process Improvement Root Cause Analysis DOE SPC
+![Process Improvement](https://img.shields.io/badge/Process%20Improvement-2196F3?style=flat&logoColor=white)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-F44336?style=flat&logoColor=white)
+![DOE](https://img.shields.io/badge/DOE-9C27B0?style=flat&logoColor=white)
+![SPC](https://img.shields.io/badge/SPC-009688?style=flat&logoColor=white)
 
 ---
 
 ## 🎓 Certifications
 
-Deep Learning Architect Alibaba Cloud ACP PMP SAS Coursera HackerRank
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning%20Architect-FF6F00?style=flat&logoColor=white)
+![Alibaba Cloud ACP](https://img.shields.io/badge/Alibaba%20Cloud%20ACP-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP-2E59A7?style=flat&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS%20Certified-0078D4?style=flat&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)
 
 **Certifications:**
 
@@ -63,9 +102,15 @@ Deep Learning Architect Alibaba Cloud ACP PMP SAS Coursera HackerRank
 
 ### 🤖 AI Projects
 
+#### [城市角落的光 | Light Everywhere | AI原创音乐MV | AIGC原创动画短片](https://www.youtube.com/watch?v=OMIchR2C6qs)
+
+- Independently completed the entire songwriting and music video production pipeline, including: lyrics creation, lyrics polishing, song generation, story design, character creation, scene design, storyboard generation, prompt engineering, video generation, video compositing, lyrics subtitle integration, content publishing and operations
+- **Tech Stack**: MiniMax Music-2.6, Seedance 2.0 Fast, AIGC, AI Music Generation, AI Video Generation
+- **Video**: [YouTube](https://www.youtube.com/watch?v=OMIchR2C6qs) | [Bilibili](https://www.bilibili.com/video/BV1pyofB2Ebe/)
+
 #### [ChatBI OEE](https://github.com/sharp-007/ChatBI_OEE)
 
-- ChatBI OEE — an intelligent manufacturing OEE analysis platform combining traditional BI dashboards with AI-powered conversational analytics via NL2SQL
+- An intelligent manufacturing OEE analysis platform combining traditional BI dashboards with AI-powered conversational analytics via NL2SQL
 - **Tech Stack**: FastAPI, Streamlit, Qwen (DashScope), MySQL, NL2SQL, SQLAlchemy, Plotly
 - **Video Demo**: [AI-Native ChatBI Is All You Need](https://www.youtube.com/watch?v=uN0ACWdIo_w)
 
@@ -156,28 +201,18 @@ Deep Learning Architect Alibaba Cloud ACP PMP SAS Coursera HackerRank
 
 ## 📫 Contact Me
 
-
-
-[LinkedIn](https://www.linkedin.com/in/joyce-pan-549596138/) [GitHub](https://github.com/sharp-007) [Email](mailto:panjiao007@126.com)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sharp-007)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 ---
 
 ## 🤝 Collaboration · 合作
 
+欢迎 **Data+AI** / **Industrial AI** 项目合作；欢迎 **Vibe Coding** 项目合作与案例展示；欢迎 **AIGC短片制作** 项目合作。
 
+*Open to **Data+AI** / **Industrial AI** projects collaboration; Open to **Vibe Coding** collaborations and case showcases; Open to **AIGC Short Film Production** projects collaboration. Let's connect!*
 
-欢迎 **Vibe Coding** 项目合作与案例展示；欢迎 **Data+AI** / **Industrial AI** 项目合作。
-
-*Open to **Vibe Coding** collaborations and case showcases; Open to **Data+AI** / **Industrial AI** projects collaboration. Let's connect!*
-
-  
-
-
-
-| 微信公众号 · 失控的智能                   | 视频号                |
-| ------------------------------- | ------------------ |
-| WeChat Official Account — 失控的智能 | WeChat Channels QR |
-
-
+| 微信公众号 · 失控的智能 | 微信视频号 · AIPanda007 |
+| :---: | :---: |
+| ![WeChat Official Account](image/公众号%20失控的智能.png) | ![WeChat Channels](image/视频号二维码1.jpg) |
