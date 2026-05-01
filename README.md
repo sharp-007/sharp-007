@@ -215,4 +215,4 @@
 
 | 微信公众号 · 失控的智能 | 微信视频号 · AIPanda007 |
 | :---: | :---: |
-| ![WeChat Official Account](image/公众号%20失控的智能.png) | ![WeChat Channels](image/视频号二维码1.jpg) |
+| ![WeChat Official Account](image/公众号%20失控的智能.png) | ![WeChat Channels](image/视频号二维码.jpg) |
