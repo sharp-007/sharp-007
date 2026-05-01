@@ -1,14 +1,14 @@
-[English](README.md) | **中文**
+<p align="right"><a href="README.md">English</a> | <strong>中文</strong></p>
 
-
+<div align="center">
 
 # 👋 你好，我是潘姣（Joyce Pan）
 
-### 🤖 数据智能 | 工业AI | AIGC
+### 🤖 Data+AI | 工业AI | AIGC
 
-[LinkedIn](https://www.linkedin.com/in/joyce-pan-549596138/) [GitHub](https://github.com/sharp-007) [Email](mailto:panjiao007@126.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
-
+</div>
 
 ---
 
@@ -30,25 +30,25 @@
 
 ### 📊 编程与数据科学
 
-Python SQL Git JMP JSL Pandas NumPy Matplotlib Scikit--learn Streamlit
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![JMP](https://img.shields.io/badge/JMP-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![JSL](https://img.shields.io/badge/JSL-FF8C00?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🤖 AI与大模型
 
-Machine Learning Deep Learning Computer Vision PyTorch CNN ResNet YOLO LLM Prompt Engineering RAG AI Agent LangChain LlamaIndex Ollama Dify Alibaba Cloud Model Studio Vibe Coding Cursor Claude Code AIGC
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0984E3?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8B5CF6?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=for-the-badge) ![ResNet](https://img.shields.io/badge/ResNet-FF6B9D?style=for-the-badge) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge) ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-00B894?style=for-the-badge) ![AI Agent](https://img.shields.io/badge/AI%20Agent-0984E3?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black) ![Dify](https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge) ![Alibaba Cloud Model Studio](https://img.shields.io/badge/Alibaba%20Cloud%20Model%20Studio-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-00D4AA?style=for-the-badge) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white) ![AIGC](https://img.shields.io/badge/AIGC-FF4081?style=for-the-badge)
 
 ### 📋 项目管理
 
-PMP Agile/Scrum Stakeholder Management Cross-Functional Collaboration
+![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-47A248?style=for-the-badge) ![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-2C3E50?style=for-the-badge) ![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-16A085?style=for-the-badge)
 
 ### 📐 六西格玛
 
-Process Improvement Root Cause Analysis DOE SPC
+![Process Improvement](https://img.shields.io/badge/Process%20Improvement-E67E22?style=for-the-badge) ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-9B59B6?style=for-the-badge) ![DOE](https://img.shields.io/badge/DOE-E74C3C?style=for-the-badge) ![SPC](https://img.shields.io/badge/SPC-3498DB?style=for-the-badge)
 
 ---
 
 ## 🎓 认证证书
 
-PMP Alibaba Cloud ACP Deep Learning Architect SAS Coursera HackerRank
+![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![Alibaba Cloud ACP](https://img.shields.io/badge/Alibaba%20Cloud%20ACP-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Deep Learning Architect](https://img.shields.io/badge/Deep%20Learning%20Architect-0984E3?style=for-the-badge&logo=deeplearning&logoColor=white) ![SAS](https://img.shields.io/badge/SAS%20Certified-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 **证书列表：**
 
@@ -153,13 +153,13 @@ PMP Alibaba Cloud ACP Deep Learning Architect SAS Coursera HackerRank
 
 #### [碳纳米管薄膜与超薄碳纤维预浸料复合材料的混杂效应](https://journals.sagepub.com/doi/10.1177/0731684416684020)
 
-- 潘姣, Li Min, Wang Shaokai, Gu Yizhuo, Li Qingwen, Zhang Zuoguang
+- 潘姣, 李敏, 王绍凯, 顾轶卓, 李清文, 张佐光
 - **期刊**：Journal of Reinforced Plastics and Composites, 2016
 - **主题**：碳纳米管薄膜、碳纤维、混杂复合材料、力学性能、阻尼、电导率
 
 #### [导电织物及其制备方法和应用 (CN110106474B)](https://patents.google.com/patent/CN110106474B/en)
 
-- 发明专利（中国）— 许涛, 许业峰, 潘姣
+- 发明专利（中国）— 徐韬, 徐烨烽, 潘姣
 - **专利号**：CN110106474B，2021年授权
 - **主题**：导电织物、电磁性能
 
