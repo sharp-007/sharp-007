@@ -1,4 +1,4 @@
-**English** | [中文](README_CN.md)
+
 
 # 👋 Hi, I'm Joyce Pan
 
@@ -6,13 +6,15 @@
 
 [LinkedIn](https://www.linkedin.com/in/joyce-pan-549596138/) [GitHub](https://github.com/sharp-007) [Email](mailto:panjiao007@126.com)
 
+
+
 ---
 
 ## 🚀 About Me
 
 - ✨ **Focus: I design and deliver Data and AI solutions to create real business value**
 - 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html)
-- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI, AIGC
+- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI
 - 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
 - 📫 **Email**: [panjiao007@126.com](mailto:panjiao007@126.com)
 - 📍 **Location**: Beijing, China
@@ -27,7 +29,7 @@ Python SQL Git JMP JSL Pandas NumPy Matplotlib Scikit--learn Streamlit
 
 ### 🤖 AI & LLM
 
-Machine Learning Deep Learning Computer Vision PyTorch CNN ResNet YOLO LLM Prompt Engineering RAG AI Agent LangChain LlamaIndex Ollama Dify Alibaba Cloud Model Studio Vibe Coding Cursor Claude Code AIGC
+Machine Learning Deep Learning Computer Vision PyTorch CNN ResNet YOLO LLM Prompt Engineering RAG AI Agent LangChain LlamaIndex Ollama Dify Alibaba Cloud Model Studio Vibe Coding Cursor Claude Code
 
 ### 📋 Project Management
 
@@ -61,15 +63,9 @@ Deep Learning Architect Alibaba Cloud ACP PMP SAS Coursera HackerRank
 
 ### 🤖 AI Projects
 
-#### [城市角落的光 | Light Everywhere | AI原创音乐MV | AIGC原创动画短片](https://www.youtube.com/watch?v=OMIchR2C6qs)
-
-- Independently completed the entire songwriting and music video production pipeline, including: lyrics creation, lyrics polishing, song generation, story design, character creation, scene design, storyboard generation, prompt engineering, video generation, video compositing, lyrics subtitle integration, content publishing and operations
-- **Tech Stack**: MiniMax Music-2.6, Seedance 2.0 Fast, AIGC, AI Music Generation, AI Video Generation
-- **Video**: [YouTube](https://www.youtube.com/watch?v=OMIchR2C6qs) | [Bilibili](https://www.bilibili.com/video/BV1pyofB2Ebe/)
-
 #### [ChatBI OEE](https://github.com/sharp-007/ChatBI_OEE)
 
-- An intelligent manufacturing OEE analysis platform combining traditional BI dashboards with AI-powered conversational analytics via NL2SQL
+- ChatBI OEE — an intelligent manufacturing OEE analysis platform combining traditional BI dashboards with AI-powered conversational analytics via NL2SQL
 - **Tech Stack**: FastAPI, Streamlit, Qwen (DashScope), MySQL, NL2SQL, SQLAlchemy, Plotly
 - **Video Demo**: [AI-Native ChatBI Is All You Need](https://www.youtube.com/watch?v=uN0ACWdIo_w)
 
@@ -160,17 +156,27 @@ Deep Learning Architect Alibaba Cloud ACP PMP SAS Coursera HackerRank
 
 ## 📫 Contact Me
 
+
+
 [LinkedIn](https://www.linkedin.com/in/joyce-pan-549596138/) [GitHub](https://github.com/sharp-007) [Email](mailto:panjiao007@126.com)
+
+
 
 ---
 
 ## 🤝 Collaboration · 合作
 
-欢迎 **Data+AI** / **Industrial AI** 项目合作；欢迎 **Vibe Coding** 项目合作与案例展示；欢迎 **AIGC短片制作** 项目合作。
 
-*Open to **Data+AI** / **Industrial AI** projects collaboration; Open to **Vibe Coding** collaborations and case showcases; Open to **AIGC Short Film Production** projects collaboration. Let's connect!*
 
-| 微信公众号 · 失控的智能                   | 微信视频号 · AIPanda007 |
+欢迎 **Vibe Coding** 项目合作与案例展示；欢迎 **Data+AI** / **Industrial AI** 项目合作。
+
+*Open to **Vibe Coding** collaborations and case showcases; Open to **Data+AI** / **Industrial AI** projects collaboration. Let's connect!*
+
+  
+
+
+
+| 微信公众号 · 失控的智能                   | 视频号                |
 | ------------------------------- | ------------------ |
 | WeChat Official Account — 失控的智能 | WeChat Channels QR |
 
