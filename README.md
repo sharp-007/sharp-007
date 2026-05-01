@@ -45,13 +45,13 @@
 
 ## 🎓 Certifications
 
-![Deep Learning Architect](https://img.shields.io/badge/Deep%20Learning%20Architect-0984E3?style=for-the-badge&logo=deeplearning&logoColor=white) ![Alibaba Cloud ACP](https://img.shields.io/badge/Alibaba%20Cloud%20ACP-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![SAS](https://img.shields.io/badge/SAS%20Certified-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP-FF6B00?style=for-the-badge&logo=pmi&logoColor=white) ![Alibaba Cloud ACP](https://img.shields.io/badge/Alibaba%20Cloud%20ACP-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Deep Learning Architect](https://img.shields.io/badge/Deep%20Learning%20Architect-0984E3?style=for-the-badge&logo=deeplearning&logoColor=white) ![SAS](https://img.shields.io/badge/SAS%20Certified-FF6B00?style=for-the-badge&logo=sas&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 **Certifications:**
 
-- 🏅 **[Deep Learning Architect](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** (MIIT Talent Exchange Center Certified)
-- 🏅 **[ACP - LLM](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** (Alibaba Cloud Certified)
 - 🏅 **[PMP](https://www.credly.com/badges/a758c464-6935-4adc-9cf2-d5785520fc5e)** (PMI Certified)
+- 🏅 **[ACP - LLM](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** (Alibaba Cloud Certified)
+- 🏅 **[Deep Learning Architect](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** (MIIT Talent Exchange Center Certified)
 - 🏅 **[Statistical Thinking and Problem Solving](https://www.credly.com/badges/18d44ede-7045-4a93-b156-48b435f325f9/public_url)** (SAS Certified)
 - 🏅 **[Exploratory Data Analysis](https://www.credly.com/badges/60dde99a-3fc5-4823-b207-098da667ed2a/public_url)** (SAS Certified)
 - 🏅 **[Quality Methods](https://www.credly.com/badges/d2f98c3c-4910-4243-9771-40139310ae99/public_url)** (SAS Certified)
