@@ -4,7 +4,7 @@
 
 # 👋 你好，我是潘姣（Joyce Pan）
 
-### 🤖 Data+AI | 工业AI | AIGC
+### 🤖 数据智能 | 工业AI | AIGC
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
