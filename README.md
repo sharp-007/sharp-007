@@ -1,4 +1,6 @@
-**English** | [中文](README_CN.md)
+<p align="right"><strong>English</strong> | <a href="README_CN.md">中文</a></p>
+
+<div align="center">
 
 # 👋 Hi, I'm Joyce Pan
 
@@ -7,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sharp-007)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
+
+</div>
 
 ---
 
