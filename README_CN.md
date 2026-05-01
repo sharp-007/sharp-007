@@ -167,26 +167,25 @@
 
 ## 📫 联系我
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
-[LinkedIn](https://www.linkedin.com/in/joyce-pan-549596138/) [GitHub](https://github.com/sharp-007) [Email](mailto:panjiao007@126.com)
-
-
+</div>
 
 ---
 
 ## 🤝 合作
 
-
+<div align="center">
 
 欢迎 **Data+AI** / **Industrial AI** 项目合作；欢迎 **Vibe Coding** 项目合作与案例展示；欢迎 **AIGC短片制作** 项目合作。
 
-  
+<br/>
 
+| 微信公众号 · 失控的智能 | 微信视频号 · AIPanda007 |
+|:---:|:---:|
+| ![WeChat Official Account](image/公众号%20失控的智能.png) | ![WeChat Channels](image/视频号二维码.jpg) |
 
-
-| 微信公众号 · 失控的智能           | 微信视频号 · AIPanda007 |
-| ----------------------- | ------------------ |
-| WeChat Official Account | WeChat Channels    |
-
+</div>
 
