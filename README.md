@@ -20,7 +20,7 @@
 - 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI, AIGC
 - 🎬 **Personal Interest**: Full-pipeline AIGC original short film production
 - 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
-- 💡 **Open to Work**: Available for hiring / project collaboration
+- 💡 **Collaboration**: Open to work / project collaboration
 - 📫 **Email**: panjiao007@126.com
 - 📍 **Location**: Beijing, China
 
