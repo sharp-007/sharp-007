@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - ✨ **Focus: I design and deliver Data and AI solutions to create real business value**
-- 💼 **Former**: [JMP Statistical Analysis Software](https://www.jmp.com/en/home) - Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html)
+- 💼 **Former**: Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html) - [JMP Statistical Analysis Software](https://www.jmp.com/en/home)
 - 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI, AIGC
 - 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
 - 📫 **Email**: panjiao007@126.com
