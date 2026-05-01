@@ -170,7 +170,6 @@ Deep Learning Architect Alibaba Cloud ACP PMP SAS Coursera HackerRank
 
 *Open to **Data+AI** / **Industrial AI** projects collaboration; Open to **Vibe Coding** collaborations and case showcases; Open to **AIGC Short Film Production** projects collaboration. Let's connect!*
 
-
 | 微信公众号 · 失控的智能                   | 微信视频号 · AIPanda007 |
 | ------------------------------- | ------------------ |
 | WeChat Official Account — 失控的智能 | WeChat Channels QR |
