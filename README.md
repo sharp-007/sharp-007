@@ -1,12 +1,8 @@
-
-
 # 👋 Hi, I'm Joyce Pan
 
 ### 🤖 Data +AI | Industrial AI | Manufacturing Background
 
 [LinkedIn](https://www.linkedin.com/in/joyce-pan-549596138/) [GitHub](https://github.com/sharp-007) [Email](mailto:panjiao007@126.com)
-
-
 
 ---
 
@@ -29,7 +25,7 @@ Python SQL Git JMP JSL Pandas NumPy Matplotlib Scikit--learn Streamlit
 
 ### 🤖 AI & LLM
 
-Machine Learning Deep Learning Computer Vision PyTorch CNN ResNet YOLO LLM Prompt Engineering RAG AI Agent LangChain LlamaIndex Ollama Dify Alibaba Cloud Model Studio Vibe Coding Cursor Claude Code
+Machine Learning Deep Learning Computer Vision PyTorch CNN ResNet YOLO LLM Prompt Engineering RAG AI Agent LangChain LlamaIndex Ollama Dify Alibaba Cloud Model Studio Vibe Coding Cursor Claude Code AIGC MiniMax Seedance
 
 ### 📋 Project Management
 
@@ -62,6 +58,12 @@ Deep Learning Architect Alibaba Cloud ACP PMP SAS Coursera HackerRank
 ## 🌟 Featured Projects
 
 ### 🤖 AI Projects
+
+#### [城市角落的光 | Light Everywhere](https://www.youtube.com/watch?v=OMIchR2C6qs)
+
+- AI原创音乐MV | AIGC原创动画短片，独立完成词曲和MV创作全流程，包括：创作歌词、润色歌词、生成歌曲、设计故事、构造角色、设计场景、生成分镜、编写提示词、生成视频、合成视频、加入歌词字幕、内容发布和运营
+- **Tech Stack**: MiniMax Music-2.6, Seedance 2.0 Fast, AIGC, AI Music Generation, AI Video Generation
+- **Video**: [YouTube](https://www.youtube.com/watch?v=OMIchR2C6qs) | [Bilibili](https://www.bilibili.com/video/BV1pyofB2Ebe/)
 
 #### [ChatBI OEE](https://github.com/sharp-007/ChatBI_OEE)
 
@@ -156,27 +158,18 @@ Deep Learning Architect Alibaba Cloud ACP PMP SAS Coursera HackerRank
 
 ## 📫 Contact Me
 
-
-
 [LinkedIn](https://www.linkedin.com/in/joyce-pan-549596138/) [GitHub](https://github.com/sharp-007) [Email](mailto:panjiao007@126.com)
-
-
 
 ---
 
 ## 🤝 Collaboration · 合作
 
+欢迎 **Data+AI** / **Industrial AI** 项目合作；欢迎 **Vibe Coding** 项目合作与案例展示；欢迎 **AIGC短片制作** 项目合作。
+
+*Open to **Data+AI** / **Industrial AI** projects collaboration; Open to **Vibe Coding** collaborations and case showcases; Open to **AIGC Short Film Production** projects collaboration. Let's connect!*
 
 
-欢迎 **Vibe Coding** 项目合作与案例展示；欢迎 **Data+AI** / **Industrial AI** 项目合作。
-
-*Open to **Vibe Coding** collaborations and case showcases; Open to **Data+AI** / **Industrial AI** projects collaboration. Let's connect!*
-
-  
-
-
-
-| 微信公众号 · 失控的智能                   | 视频号                |
+| 微信公众号 · 失控的智能                   | 微信视频号              |
 | ------------------------------- | ------------------ |
 | WeChat Official Account — 失控的智能 | WeChat Channels QR |
 
