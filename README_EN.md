@@ -6,7 +6,7 @@
 
 ### 🤖 Data +AI | Industrial AI | AIGC
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8F%A0-joyce.hitai.space-4F46E5?style=flat-square)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Joyce_Pan&color=0077B5&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
+[![Portfolio](https://img.shields.io/static/v1?label=%F0%9F%8F%A0%20Portfolio&message=joyce.hitai.space&color=4F46E5&style=flat-square)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Joyce_Pan&color=0077B5&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fsharp-007%2Fsharp-007%2Fmain%2Fimage%2Flinkedin-white.svg&logoWidth=18&style=flat-square)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 </div>
 
@@ -171,7 +171,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8F%A0-joyce.hitai.space-4F46E5?style=flat-square)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Joyce_Pan&color=0077B5&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
+[![Portfolio](https://img.shields.io/static/v1?label=%F0%9F%8F%A0%20Portfolio&message=joyce.hitai.space&color=4F46E5&style=flat-square)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Joyce_Pan&color=0077B5&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fsharp-007%2Fsharp-007%2Fmain%2Fimage%2Flinkedin-white.svg&logoWidth=18&style=flat-square)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 </div>
 
