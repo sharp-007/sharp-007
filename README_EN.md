@@ -6,7 +6,7 @@
 
 ### 🤖 Data +AI | Industrial AI | AIGC
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-joyce.hitai.space-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8F%A0-joyce.hitai.space-4F46E5?style=flat-square)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Joyce_Pan&color=0077B5&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- ✨ **Focus: I design Data+AI products and deliver digital & intelligent transformation solutions to create real business value**
+- ✨ **Focus: I design Data+AI products and deliver digital & intelligent transformation solutions**
 - 🏷️ **Keywords**: Data + AI｜Industrial AI | B2B Pre-Sales Data Analysis Consulting｜Manufacturing Product R&D Experience
 - 💼 **Former**: Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html) - [JMP Statistical Analysis Software](https://www.jmp.com/en/home)
 - 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI, AIGC
@@ -22,7 +22,7 @@
 - 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
 - 💡 **Collaboration**: Open to work / project collaboration
 - 📫 **Email**: panjiao007@126.com
-- 🔗 **Portfolio**: [joyce.hitai.space](https://joyce.hitai.space/) (Data + AI)
+- 🏠 **Portfolio**: [joyce.hitai.space](https://joyce.hitai.space/) (Data + AI)
 - 📍 **Location**: Beijing, China
 
 ---
@@ -56,6 +56,7 @@
 - 🏅 **[PMP](https://www.credly.com/badges/a758c464-6935-4adc-9cf2-d5785520fc5e)** (PMI Certified)
 - 🏅 **[ACP - LLM](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** (Alibaba Cloud Certified)
 - 🏅 **[Deep Learning Architect](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** (MIIT Talent Exchange Center Certified)
+- 🏅 **[LLM Application Development Engineer](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)** (MIIT Talent Exchange Center Certified)
 - 🏅 **[Statistical Thinking and Problem Solving](https://www.credly.com/badges/18d44ede-7045-4a93-b156-48b435f325f9/public_url)** (SAS Certified)
 - 🏅 **[Exploratory Data Analysis](https://www.credly.com/badges/60dde99a-3fc5-4823-b207-098da667ed2a/public_url)** (SAS Certified)
 - 🏅 **[Quality Methods](https://www.credly.com/badges/d2f98c3c-4910-4243-9771-40139310ae99/public_url)** (SAS Certified)
@@ -170,7 +171,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-joyce.hitai.space-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8F%A0-joyce.hitai.space-4F46E5?style=flat-square)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Joyce_Pan&color=0077B5&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 </div>
 

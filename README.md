@@ -6,7 +6,7 @@
 
 ### 🤖 数据智能 | 工业AI | AIGC
 
-[![个人主页](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-joyce.hitai.space-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
+[![个人主页](https://img.shields.io/badge/%F0%9F%8F%A0-joyce.hitai.space-4F46E5?style=flat-square)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Joyce_Pan&color=0077B5&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🚀 关于我
 
-- ✨ **专注方向：设计Data+AI产品，交付数智化转型解决方案，创造真实业务价值**
+- ✨ **专注方向：设计Data+AI产品，交付数智化转型解决方案**
 - 🏷️ **关键词**：数据智能 | 工业AI｜B2B售前数据分析经验｜制造业产品研发经验
 - 💼 **曾就职于**：[SAS](https://www.sas.com/en_hk/home.html) 数据分析顾问 - [JMP统计分析软件](https://www.jmp.com/zh-hans/home)
 - 🔬 **主要研究领域**：数据科学、机器学习、深度学习、计算机视觉、大语言模型、RAG、AI Agent、ChatBI、AIGC
@@ -22,7 +22,7 @@
 - 🌐 **英语水平**：流利口语，雅思7.5
 - 💡 **合作**：求职中，找我上班/项目合作请联系
 - 📫 **邮箱**：[panjiao007@126.com](mailto:panjiao007@126.com)
-- 🔗 **个人主页**：[joyce.hitai.space](https://joyce.hitai.space/)（Data + AI 作品集）
+- 🏠 **个人主页**：[joyce.hitai.space](https://joyce.hitai.space/)（Data + AI 作品集）
 - 📍 **所在地**：中国 北京
 
 ---
@@ -56,6 +56,7 @@
 - 🏅 **[PMP](https://www.credly.com/badges/a758c464-6935-4adc-9cf2-d5785520fc5e)**（PMI认证）
 - 🏅 **[ACP - 大模型](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)**（阿里云认证）
 - 🏅 **[深度学习架构师](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)**（工信部人才交流中心认证）
+- 🏅 **[大模型应用开发工程师](https://www.linkedin.com/in/joyce-pan-549596138/details/certifications/)**（工信部人才交流中心认证）
 - 🏅 **[统计思维与问题解决](https://www.credly.com/badges/18d44ede-7045-4a93-b156-48b435f325f9/public_url)**（SAS认证）
 - 🏅 **[探索性数据分析](https://www.credly.com/badges/60dde99a-3fc5-4823-b207-098da667ed2a/public_url)**（SAS认证）
 - 🏅 **[质量方法](https://www.credly.com/badges/d2f98c3c-4910-4243-9771-40139310ae99/public_url)**（SAS认证）
@@ -170,7 +171,7 @@
 
 <div align="center">
 
-[![个人主页](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-joyce.hitai.space-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joyce_Pan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
+[![个人主页](https://img.shields.io/badge/%F0%9F%8F%A0-joyce.hitai.space-4F46E5?style=flat-square)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Joyce_Pan&color=0077B5&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
 </div>
 
