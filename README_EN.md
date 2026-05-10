@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Joyce Pan
 
-### 🤖 Data +AI | Industrial AI | AIGC
+### 🤖 Data +AI | Industrial AI
 
 [![Portfolio](https://img.shields.io/static/v1?label=%F0%9F%8F%A0%20Portfolio&message=joyce.hitai.space&color=4F46E5&style=flat-square)](https://joyce.hitai.space/) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Joyce%20Pan&color=0077B5&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/joyce-pan-549596138/) [![GitHub](https://img.shields.io/badge/GitHub-sharp--007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharp-007) [![Email](https://img.shields.io/badge/Email-panjiao007@126.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:panjiao007@126.com)
 
@@ -15,9 +15,9 @@
 ## 🚀 About Me
 
 - ✨ **Focus: I design Data+AI products and deliver digital & intelligent transformation solutions**
-- 🏷️ **Keywords**: Data + AI｜Industrial AI | B2B Pre-Sales Data Analysis Consulting｜Manufacturing Product R&D Experience
+- 🏷️ **Keywords**: Data + AI｜Industrial AI | B2B Pre-Sales Consulting｜Manufacturing Product R&D Experience
 - 💼 **Former**: Data Analysis Consultant at [SAS](https://www.sas.com/en_hk/home.html) - [JMP Statistical Analysis Software](https://www.jmp.com/en/home)
-- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI, AIGC
+- 🔬 **Main Research Areas**: Data Science, Machine Learning, Deep Learning, Computer Vision, LLM, RAG, AI Agent, ChatBI
 - 🎬 **Personal Interest**: Full-pipeline AIGC original short film production
 - 🌐 **English Proficiency**: Fluent Speaking, IELTS 7.5
 - 💡 **Collaboration**: Open to work / project collaboration
